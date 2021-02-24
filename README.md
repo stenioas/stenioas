@@ -1,5 +1,3 @@
-<img src="NLW04_pack_divulgacao_-_Github.png"/>
-
 # Stenio Almeida
 
 ## Olá pessoal 👋
@@ -14,3 +12,5 @@ Minha maior paixão é ajudar as pessoas a solucionarem problemas.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-StenioAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steniosilveira/)](https://www.linkedin.com/in/steniosilveira/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-stenioas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
+
+<img src="NLW04_pack_divulgacao_-_Github.png"/>
