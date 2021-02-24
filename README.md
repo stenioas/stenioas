@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Minha paixão é ajudar a solucionar problemas.
-Almejo me tornar Desenvolvedor FullStack em breve :computer:
+<br/>Almejo me tornar Desenvolvedor FullStack em breve :computer:
 
  :rocket:  &nbsp; Estou em busca de recolocação no marcado enquanto aprimoro meus conhecimentos.
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos que melhorem a vida das pessoas!
