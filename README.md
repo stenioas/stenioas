@@ -1,11 +1,8 @@
-<img width="60rem" src="https://github.com/stenioas.png">
-
-
 # Stenio Almeida
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Almejo me tornar um FullStack Developer em breve :computer:
+Minha paixão é ajudar a solucionar problemas.
+Almejo me tornar Desenvolvedor FullStack em breve :computer:
 
  :rocket:  &nbsp; Atualmente estou estudando e aprimorando minhas habilidades.
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos que melhorem a vida das pessoas!
