@@ -4,9 +4,9 @@
 Minha paixão é ajudar a solucionar problemas.
 Almejo me tornar Desenvolvedor FullStack em breve :computer:
 
- :rocket:  &nbsp; Atualmente estou estudando e aprimorando minhas habilidades.
+ :rocket:  &nbsp; Estou em busca de recolocação no marcado enquanto aprimoro meus conhecimentos.
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos que melhorem a vida das pessoas!
- <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, NextJS & Typescript.
+ <br/> :computer: &nbsp; Estudando atualmente: ReactJS, React Native, NextJS & Typescript.
  <br/> 💬  &nbsp; Sobre mim: Entusiasta apaixonado por tecnologia, matemática, música, cinema, esportes, games e culinária.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-StenioAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steniosilveira/)](https://www.linkedin.com/in/steniosilveira/) 
 | 
