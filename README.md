@@ -1,4 +1,4 @@
-<img width="20rem" src="https://github.com/stenioas.png">
+<img width="60rem" src="https://github.com/stenioas.png">
 
 
 # Stenio Almeida
