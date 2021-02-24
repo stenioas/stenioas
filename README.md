@@ -1,3 +1,5 @@
+<img src="NLW04_pack_divulgacao_-_Github.png"/>
+
 # Stenio Almeida
 
 ## Olá pessoal 👋
