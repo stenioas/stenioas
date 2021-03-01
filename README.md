@@ -11,5 +11,5 @@ Minha maior paixão é ajudar as pessoas a solucionarem problemas.
  <br/> 💬  &nbsp; Sobre mim: Entusiasta apaixonado por tecnologia, matemática, música, cinema, esportes, games e culinária.
  #### :email: &nbsp; Entre em contato comigo:
  
- [![Linkedin Badge](https://img.shields.io/badge/-Stenio.Almeida-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steniosilveira/)](https://www.linkedin.com/in/steniosilveira/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Stenio_Almeida-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steniosilveira/)](https://www.linkedin.com/in/steniosilveira/)
 [![Gmail Badge](https://img.shields.io/badge/-stenioas@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
