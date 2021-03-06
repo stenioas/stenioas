@@ -3,8 +3,7 @@
 ## Olá pessoal 👋
 Minha maior paixão é ajudar as pessoas a solucionarem problemas.
 
- :rocket:  &nbsp; Estou em busca de recolocação no mercado enquanto evoluo meus conhecimentos.
- <br/> :heart_eyes: &nbsp; Busco colaborar com projetos que melhorem a vida das pessoas!
+ :rocket:  &nbsp; Estou em busca de aprendizado e a melhor versão de mim mesmo todos os dias. Colaborar com projetos que melhorem a vida das pessoas é um diferencial para mim!
  <br/> :books: &nbsp; Estudando atualmente: ReactJS, NextJS & Typescript.
  <br/> :blush: &nbsp; Posso te ajudar com HTML5, CSS3, JavaScript, Python, Shell Script e Linux.
  <br/> 💬  &nbsp; Sobre mim: Entusiasta apaixonado por tecnologia, matemática, música, cinema, esportes, games e culinária.
