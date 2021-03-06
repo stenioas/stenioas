@@ -2,7 +2,6 @@
 
 ## Olá pessoal 👋
 Minha maior paixão é ajudar as pessoas a solucionarem problemas.
-<br/>Almejo me tornar Desenvolvedor FullStack em breve :computer:
 
  :rocket:  &nbsp; Estou em busca de recolocação no mercado enquanto evoluo meus conhecimentos.
  <br/> :heart_eyes: &nbsp; Busco colaborar com projetos que melhorem a vida das pessoas!
