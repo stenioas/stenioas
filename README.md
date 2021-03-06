@@ -7,7 +7,7 @@ Minha maior paixão é ajudar as pessoas a solucionarem problemas.
  <br/> :fire: &nbsp; Colaborar com projetos que melhorem a vida das pessoas é um diferencial para mim!
  <br/> :books: &nbsp; Estudando atualmente: ReactJS, NextJS & Typescript.
  <br/> :blush: &nbsp; Eu não sei muito, mas tento ajudar com o que sei.
- <br/> 💬  &nbsp; Sobre mim: Entusiasta apaixonado por tecnologia, matemática, música, cinema, esportes, games e culinária.
+ <br/> 💬  &nbsp; Entusiasta apaixonado por tecnologia, matemática, música, cinema, esportes, games e culinária.
  #### :email: &nbsp; Entre em contato comigo:
  
  [![Linkedin Badge](https://img.shields.io/badge/-Stenio_Almeida-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steniosilveira/)](https://www.linkedin.com/in/steniosilveira/)
