@@ -1,6 +1,7 @@
+
 # Stenio Almeida
 
-## Oi! 👋
+# Oi! 👋
 
 😊 &nbsp; Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas!  
   
@@ -10,7 +11,7 @@
 
 Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas também estou aberto a aprender outras tecnologias e linguagens.
 
-### Competências
+## Competências
 [![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
@@ -24,7 +25,7 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tamb�
 [![Linux Badge](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=2d2d2d)](#)
 [![Scrum Badge](https://img.shields.io/badge/-scrum-405571?style=for-the-badge&logo=scrum&logoColor=fafafa)](#)
 
-##### 📚 &nbsp; Conhecimentos básicos
+#### 📚 &nbsp; Conhecimentos básicos
 [![REST API Badge](https://img.shields.io/badge/-rest_api-2d2d2d?style=for-the-badge&logo=json&logoColor=fafafa)](#)
 [![Next.js Badge](https://img.shields.io/badge/-next.js-2d2d2d?style=for-the-badge&logo=next-dot-js&logoColor=fafafa)](#)
 [![Node.js Badge](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=fafafa)](#)
@@ -36,7 +37,7 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tamb�
 [![Tailwind CSS Badge](https://img.shields.io/badge/-tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fafafa)](#)
 [![Sass Badge](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=fafafa)](#)
 
-##### 🔎 &nbsp; Interesse em aprender
+#### 🔎 &nbsp; Interesse em aprender
 [![Gulp Badge](https://img.shields.io/badge/-gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=fafafa)](#)
 [![React Native Badge](https://img.shields.io/badge/-react_native-61DAFB?style=for-the-badge&logo=react&logoColor=2d2d2d)](#)
 [![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=fafafa)](#)
@@ -47,7 +48,7 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tamb�
 [![Rust Badge](https://img.shields.io/badge/-rust-2d2d2d?style=for-the-badge&logo=rust&logoColor=fafafa)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fafafa)](#)
  
-## Idiomas:
+## Idiomas
 🇧🇷 (nativo) | 🇺🇸 Inglês (básico-intermediário)
 
 ## Vamos nos conectar?
