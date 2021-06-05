@@ -53,7 +53,7 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tamb√
 
 ## Vamos nos conectar?
  
-[![Linkedin Badge](https://img.shields.io/badge/-stenioas-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
+[![Linkedin Badge](https://img.shields.io/badge/-stenioas-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/){:target="_blank" rel="noopener"}
 [![Gmail Badge](https://img.shields.io/badge/-stenioas-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-stenioas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/stenioas/)](https://www.instagram.com/stenioas/)
-[![Telegram Badge](https://img.shields.io/badge/-stenioas-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/stenioas/)](https://t.me/stenioas/)
+[![Instagram Badge](https://img.shields.io/badge/-stenioas-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/stenioas/)](https://www.instagram.com/stenioas/){:target="_blank" rel="noopener"}
+[![Telegram Badge](https://img.shields.io/badge/-stenioas-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/stenioas/)](https://t.me/stenioas/){:target="_blank" rel="noopener"}
