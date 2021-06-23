@@ -1,6 +1,4 @@
 
-# Stenio Almeida
-
 # Oi! 👋
 
 😊 &nbsp; Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas!  
