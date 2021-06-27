@@ -34,11 +34,11 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tambÃ
 [![Typescript Badge](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fafafa)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/-tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fafafa)](#)
 [![Sass Badge](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=fafafa)](#)
+[![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=fafafa)](#)
 
 #### ðŸ”Ž &nbsp; Interesse em aprender
 [![Gulp Badge](https://img.shields.io/badge/-gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=fafafa)](#)
 [![React Native Badge](https://img.shields.io/badge/-react_native-61DAFB?style=for-the-badge&logo=react&logoColor=2d2d2d)](#)
-[![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=fafafa)](#)
 [![AWS Badge](https://img.shields.io/badge/-aws-ff9600?style=for-the-badge&logo=amazon-aws&logoColor=fafafa)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-graphql-E434AA?style=for-the-badge&logo=graphql&logoColor=fafafa)](#)
 [![Flutter Badge](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fafafa)](#)
