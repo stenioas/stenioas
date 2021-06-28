@@ -35,6 +35,7 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tambÃ
 [![Tailwind CSS Badge](https://img.shields.io/badge/-tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fafafa)](#)
 [![Sass Badge](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=fafafa)](#)
 [![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=fafafa)](#)
+[![Firebase Badge](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=fafafa)](#)
 
 #### ðŸ”Ž &nbsp; Interesse em aprender
 [![Gulp Badge](https://img.shields.io/badge/-gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=fafafa)](#)
