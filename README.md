@@ -10,6 +10,8 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tamb�
 
 ## Habilidades
 
+#### ✔️ &nbsp; Conhecimentos intermediários
+
 [![HTML5 Badge](https://img.shields.io/badge/-html5-222222?style=for-the-badge&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-css3-222222?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-javascript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
