@@ -16,7 +16,7 @@ Estou buscando novos desafios no mercado como Desenvolvedor Front-End, mas tamb�
 
 #### 📚 &nbsp; Conhecimentos básicos
 
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=f0f0f0" alt="typescript badge"> <img src="https://img.shields.io/badge/rest_api-0d1117?style=for-the-badge&logo=json&logoColor=f0f0f0" alt="rest api badge"> <img src="https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=f0f0f0" alt="nextjs badge"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=f0f0f0" alt="nodejs badge"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0d1117" alt="firebase badge"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=f0f0f0" alt="docker badge">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=f0f0f0" alt="typescript badge"> <img src="https://img.shields.io/badge/rest_api-f0f0f0?style=for-the-badge&logo=json&logoColor=0d1117" alt="rest api badge"> <img src="https://img.shields.io/badge/next.js-f0f0f0?style=for-the-badge&logo=next.js&logoColor=0d1117" alt="nextjs badge"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=f0f0f0" alt="nodejs badge"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0d1117" alt="firebase badge"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=f0f0f0" alt="docker badge">
 
 #### 🔎 &nbsp; Interesse em aprender
 
