@@ -1,21 +1,11 @@
 
-## Oi! Meu nome é Stenio!👋
+## Oi! Eu sou o Stenio! 👋
 
 😊 &nbsp;Ex-atleta, músico, cinéfilo, amante da matemática, aventureiro gastronômico, estudante de programação e entusiasta de UX/UI Design.  
   
-🚀 &nbsp;Tenho dedicado meus esforços profundamente no aprendizado de TypeScript, React.js e Node.js, e participo de projetos sociais, voluntários e pro bono, com o objetivo de agregar experiência e conhecimento aos integrantes.  
-  
-👨‍💻 &nbsp; Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
+🚀 &nbsp;Tenho dedicado meus esforços profundamente no aprendizado de TypeScript, React.js e Node.js, e participo de projetos sociais, voluntários e pro bono, com o objetivo de agregar experiência e conhecimento aos integrantes. Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
 
 ---
-<div>
-	<a href="https://github.com/stenioas">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stenioas&show_icons=true&theme=radical&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-	</a>
-	<a href="https://github.com/stenioas">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&langs_count=8&theme=radical&bg_color=0d1117"/>
-	</a>
-</div>
 
 #### ✔️ &nbsp; Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -45,6 +35,15 @@
 
 ## Idiomas
 # 🇧🇷 ![Português](https://img.shields.io/badge/Português-Nativo-2d2d2d?style=for-the-badge)&nbsp;&nbsp;&nbsp;🇺🇸 ![English](https://img.shields.io/badge/Inglês-Intermediário-2d2d2d?style=for-the-badge)
+
+<div>
+	<a href="https://github.com/stenioas">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stenioas&show_icons=true&theme=radical&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+	</a>
+	<a href="https://github.com/stenioas">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&langs_count=8&theme=radical&bg_color=0d1117"/>
+	</a>
+</div>
 
 ## Vamos nos conectar?
 
