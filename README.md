@@ -38,6 +38,7 @@
 #### 📚 &nbsp; Conhecimentos básicos
 
 ![Rest API](https://img.shields.io/badge/API_Rest-2d2d2d?style=for-the-badge&logo=json&logoColor=fafafa)
+![GraphQL](https://img.shields.io/badge/GraphQL-2d2d2d?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![Next.js](https://img.shields.io/badge/NextJS-2d2d2d?style=for-the-badge&logo=nextdotjs&logoColor=fafafa)
 ![Firebase](https://img.shields.io/badge/Firebase-2d2d2d?style=for-the-badge&logo=firebase&logoColor=FFCA2)
 ![Figma](https://img.shields.io/badge/Docker-2d2d2d?style=for-the-badge&logo=docker&logoColor=2496ED)
