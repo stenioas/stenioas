@@ -1,7 +1,7 @@
+<img src="./assets/social-cover.png" alt="Cover">
+<h2 align="center">Oi! Eu sou o Stenio! 👋</h2>
 
-## Oi! Eu sou o Stenio! 👋
-
-😊 &nbsp;Ex-atleta, músico, cinéfilo, amante da matemática, aventureiro gastronômico, estudante de programação e entusiasta de UX/UI Design.  
+😊 &nbsp;Ex-atleta, músico, cinéfilo, amante da matemática, aventureiro gastronômico, estudante de programação e entusiasta de UX/UI Design
   
 🚀 &nbsp;Tenho dedicado meus esforços profundamente no aprendizado de TypeScript, React.js e Node.js, e participo de projetos sociais, voluntários e pro bono, com o objetivo de agregar experiência e conhecimento aos integrantes. Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
 
