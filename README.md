@@ -52,7 +52,7 @@
 
 ## 📃 Currículo
 
-[Visualizar CV](https://docs.google.com/viewerng/viewer?url=https://github.com/stenioas/stenioas/raw/main/etc/cv-stenio-2021.pdf){:target="\_blank" rel="noopener"}
+[Visualizar CV](https://docs.google.com/viewerng/viewer?url=https://github.com/stenioas/stenioas/raw/main/etc/cv-stenio-2021.pdf)(Para uma melhor experiência sugiro abrir o link em uma nova guia)
 
 ## 🙋‍♂️ Social
 
