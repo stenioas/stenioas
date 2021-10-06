@@ -1,4 +1,4 @@
-<img  src="https://raw.githubusercontent.com/stenioas/stenioas/7458a7d386a6d89a7a353d5d7988c282b12bca17/etc/social-cover.png"  alt="Cover">
+<img  src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/social-cover.png"  alt="Cover">
 
 ## Oi! Eu sou o Stenio! 👋
 
@@ -52,7 +52,7 @@
 
 ## 📃 Currículo
 
-[Visualizar CV](https://docs.google.com/viewerng/viewer?url=https://github.com/stenioas/stenioas/raw/master/etc/cv-stenio-2021.pdf)
+[Visualizar CV](https://docs.google.com/viewerng/viewer?url=https://github.com/stenioas/stenioas/raw/main/etc/cv-stenio-2021.pdf)
 
 ## 🙋‍♂️ Social
 
