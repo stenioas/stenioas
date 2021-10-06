@@ -42,11 +42,11 @@
 
 <div>
 <a  href="https://github.com/stenioas">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=stenioas&show_icons=true&theme=radical&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=stenioas&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/stenioas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&langs_count=8&theme=radical&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&langs_count=8&theme=dark&bg_color=0d1117"/>
 </a>
 </div>
 
