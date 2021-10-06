@@ -38,7 +38,7 @@
 
 # 🇧🇷 ![Português](https://img.shields.io/badge/Português-Nativo-2d2d2d?style=for-the-badge)&nbsp;&nbsp;&nbsp;🇺🇸 ![English](https://img.shields.io/badge/Inglês-Intermediário-2d2d2d?style=for-the-badge)
 
-## 🥇 Git stats
+## 🥇 Git Stats
 
 <div>
 <a  href="https://github.com/stenioas">
@@ -50,13 +50,9 @@
 </a>
 </div>
 
-## 📃 Meu CV 2021
-
-[**Visualize**](https://docs.google.com/viewerng/viewer?url=https://github.com/stenioas/stenioas/raw/main/etc/cv-stenio-2021.pdf) ou efetue o [**Download**](https://github.com/stenioas/stenioas/raw/main/etc/cv-stenio-2021.pdf)!
-
 ## 🙋‍♂️ Social
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fafafa&link=https://www.instagram.com/stenioas/)](https://www.instagram.com/stenioas/)
-[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fafafa&link=https://wa.me/+5585988147879)](https://wa.me/+5585988147879)
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fafafa&link=https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F)](https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F)
