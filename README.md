@@ -1,4 +1,4 @@
-<img  src="https://raw.githubusercontent.com/stenioas/stenioas/7458a7d386a6d89a7a353d5d7988c282b12bca17/assets/social-cover.png"  alt="Cover">
+<img  src="https://raw.githubusercontent.com/stenioas/stenioas/7458a7d386a6d89a7a353d5d7988c282b12bca17/etc/social-cover.png"  alt="Cover">
 
 ## Oi! Eu sou o Stenio! 👋
 
@@ -30,12 +30,15 @@
 ![Node.js](https://img.shields.io/badge/NodeJS-2d2d2d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Rest API](https://img.shields.io/badge/API_Rest-2d2d2d?style=for-the-badge&logo=json&logoColor=fafafa)
 ![Firebase](https://img.shields.io/badge/Firebase-2d2d2d?style=for-the-badge&logo=firebase&logoColor=FFCA2)
-![Figma](https://img.shields.io/badge/Docker-2d2d2d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker](https://img.shields.io/badge/Docker-2d2d2d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-2d2d2d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![VTEX](https://img.shields.io/badge/VTEX_IO-2d2d2d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxOSAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE3LjQgMEgzLjM2Mjg2QzIuODQ5NDggMCAyLjM4MDExIDAuMjc3NjI1IDIuMTMwNzYgMC43MDEzN0MxLjg2Njc0IDEuMTM5NzMgMS44NTIwNyAxLjY4MDM3IDIuMDg2NzYgMi4xMTg3MkwzLjQ5NDg3IDQuNzc4MDhIMC45NDI2NjFDMC42MTk5NjggNC43NzgwOCAwLjMxMTk0MyA0LjkzODgxIDAuMTM1OTI4IDUuMjE2NDRDLTAuMDQwMDg2MSA1LjQ5NDA2IC0wLjA0MDA4NjIgNS44NDQ3NSAwLjEwNjU5MiA2LjEzNjk5TDQuNjI0MyAxNC42NDExQzQuNzg1NjQgMTQuOTQ3OSA1LjEwODM0IDE1LjEzNzkgNS40NDU3IDE1LjEzNzlDNS43ODMwNiAxNS4xMzc5IDYuMTA1NzUgMTQuOTQ3OSA2LjI2NzEgMTQuNjQxMUw3LjQ5OTIgMTIuMzMyNEw5LjAzOTMzIDE1LjI0MDJDOS4yODg2OCAxNS43MDc4IDkuNzg3MzkgMTYgMTAuMzE1NCAxNkMxMC44NDM1IDE2IDExLjM0MjIgMTUuNzA3OCAxMS41OTE1IDE1LjI0MDJMMTguNjMyMSAyLjA0NTY2QzE4Ljg2NjggMS42MDczMSAxOC44NTIxIDEuMDgxMjggMTguNTg4MSAwLjY3MjE0NkMxOC4zNTM0IDAuMjQ4NDAyIDE3Ljg5ODcgMCAxNy40IDBaTTExLjEyMjIgNS41NjcxMkw4LjA0MTkxIDExLjMyNDJDNy45MzkyNCAxMS41Mjg4IDcuNzMzODkgMTEuNjQ1NyA3LjQ5OTIgMTEuNjQ1N0M3LjI2NDUyIDExLjY0NTcgNy4wNTkxNyAxMS41MTQyIDYuOTU2NDkgMTEuMzI0MkwzLjkyMDI0IDUuNjI1NTdDMy44MzIyMyA1LjQ1MDIzIDMuODMyMjMgNS4yNDU2NiAzLjkzNDkxIDUuMDcwMzJDNC4wMzc1OCA0Ljg5NDk4IDQuMjI4MjcgNC43OTI2OSA0LjQxODk1IDQuNzkyNjlIMTAuNjM4MUMxMC44Mjg4IDQuNzkyNjkgMTEuMDA0OCA0Ljg4MDM3IDExLjA5MjggNS4wNDExQzExLjIxMDIgNS4yMDE4MyAxMS4yMTAyIDUuNDA2MzkgMTEuMTIyMiA1LjU2NzEyWiIgZmlsbD0iI0ZGMDA1RiIvPgo8L3N2Zz4K)
 
-## Idiomas
+## 🌎 Idiomas
 
 # 🇧🇷 ![Português](https://img.shields.io/badge/Português-Nativo-2d2d2d?style=for-the-badge)&nbsp;&nbsp;&nbsp;🇺🇸 ![English](https://img.shields.io/badge/Inglês-Intermediário-2d2d2d?style=for-the-badge)
+
+## 🥇 Git stats
 
 <div>
 <a  href="https://github.com/stenioas">
@@ -47,7 +50,13 @@
 </a>
 </div>
 
-## Vamos nos conectar?
+## 📃 Currículo
 
-[![Linkedin Badge](https://img.shields.io/badge/stenioas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
-[![Gmail Badge](https://img.shields.io/badge/stenioas-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
+[Visualizar CV](https://docs.google.com/viewerng/viewer?url=https://github.com/stenioas/stenioas/raw/master/etc/cv-stenio-2021.pdf)
+
+## 🙋‍♂️ Social
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fafafa&link=https://www.instagram.com/stenioas/)](https://www.instagram.com/stenioas/)
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fafafa&link=https://wa.me/+5585988147879)](https://wa.me/+5585988147879)
