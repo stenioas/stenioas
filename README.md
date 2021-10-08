@@ -20,7 +20,7 @@
 
 #### 🌎 &nbsp; Idiomas
 
-<img src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/badges/pt-br.svg" />
+<img src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/badges/pt-br.svg" /> <img src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/badges/en-us.svg" />
 
 ## 🥇 Git Stats
 
