@@ -1,6 +1,5 @@
 <img  src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/social-cover-compact.png"  alt="Cover">
 </br>
-</br>
 
 <h1 align="center">Oi 👋 Meu nome é Stenio!</h1>
 
@@ -38,5 +37,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fafafa&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fafafa&link=https://www.instagram.com/stenioas/)](https://www.instagram.com/stenioas/)
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fafafa&link=https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F)](https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F)
