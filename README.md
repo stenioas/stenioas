@@ -11,6 +11,7 @@ Meu nome é Stenio Almeida! Que bacana te ver por aqui! 🤗
 - 🤝🏼 Busco ser voluntário em projetos open source, sociais e pro bono;
 - 🤍 Amo compartilhar conhecimento;
 - 💬 Me pergunte sobre qualquer coisa;
+- 💌 Adoro conhecer pessoas, não hesite em me enviar uma mensagem.
 
 ##### ⚡ **TECNOLOGIAS**
 
@@ -44,7 +45,7 @@ Meu nome é Stenio Almeida! Que bacana te ver por aqui! 🤗
 [
 ![Trello](https://img.shields.io/badge/Trello-2d2d2d?style=flat-square&logo=trello&logoColor=0052CC)]()
 
-##### 💌 **Fique a vontade para me enviar uma mensagem!**
+##### 🙋🏻 **SOCIAL**
 
 [
 ![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
