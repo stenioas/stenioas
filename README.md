@@ -8,7 +8,7 @@ Meu nome é Stenio Almeida! Que bacana te ver por aqui! 🤗
 
 - 💼 **Desenvolvedor Front-end** com foco em UX;
 - 🌱 Atualmente estudo **`React`** e **`TypeScript`**;
-- 🤝🏼 Busco contribuir com projetos sociais, voluntários e pro bono;
+- 🤝🏼 Busco ser voluntário em projetos open source, sociais e pro bono;
 - 🤍 Amo compartilhar conhecimento;
 - 💬 Me pergunte sobre qualquer coisa;
 
@@ -20,6 +20,8 @@ Meu nome é Stenio Almeida! Que bacana te ver por aqui! 🤗
 ![Typescript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square&logo=typescript)]()
 [
 ![React](https://img.shields.io/badge/React-2d2d2d?style=flat-square&logo=react)]()
+[
+![Node](https://img.shields.io/badge/Node-2d2d2d?style=flat-square&logo=node.js&logoColor=339933)]()
 [
 ![Styled Components](https://img.shields.io/badge/Styled_Components-2d2d2d?style=flat-square&logo=styled-components)]()
 [
@@ -36,15 +38,13 @@ Meu nome é Stenio Almeida! Que bacana te ver por aqui! 🤗
 [
 ![VSCode](https://img.shields.io/badge/VSCode-2d2d2d?style=flat-square&logo=visualstudiocode&logoColor=007ACC)]()
 [
-![Node](https://img.shields.io/badge/Node-2d2d2d?style=flat-square&logo=node.js&logoColor=339933)]()
-[
 ![Insomnia](https://img.shields.io/badge/Insomnia-2d2d2d?style=flat-square&logo=insomnia&logoColor=5849BE)]()
 [
 ![Figma](https://img.shields.io/badge/Figma-2d2d2d?style=flat-square&logo=figma&logoColor=F24E1E)]()
 [
 ![Trello](https://img.shields.io/badge/Trello-2d2d2d?style=flat-square&logo=trello&logoColor=0052CC)]()
 
-#### 💌 **Fique a vontade para me enviar uma mensagem!**
+##### 💌 **Fique a vontade para me enviar uma mensagem!**
 
 [
 ![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
