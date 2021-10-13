@@ -4,7 +4,7 @@
 
 > _Aficionado por tecnologia, estudante de programação e entusiasta de UX/UI Design, além de ex-atleta, musicista, cinéfilo, aventureiro gastronômico e apaixonado por games e matemática._
 
-Sou desenvolvedor com foco em human experience, minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
+Sou desenvolvedor com foco em human experience. Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
 
 [
 ![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
