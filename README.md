@@ -2,7 +2,7 @@
 
 <!-- Click [here](./docs/readme-en.md) for the english version! -->
 
-> _Aficionado por tecnologia, estudante de programação e entusiasta de UX/UI Design._
+> _Aficionado por tecnologia, estudante de programação e entusiasta de UX/UI Design, além de ex-atleta, musicista, cinéfilo, aventureiro gastronômico e apaixonado por games e matemática._
 
 Sou desenvolvedor com foco em human experience, minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
 
@@ -13,9 +13,9 @@ Sou desenvolvedor com foco em human experience, minha maior motivação é a opo
 
 ---
 
-#### **Sobre**
+### **Sobre**
 
-💼 Atualmente estudo desenvolvimento front-end
+🌱 Atualmente estudo desenvolvimento `front-end`
 <br/>
 🌱 Atualmente estudo `React`
 <br/>
@@ -23,7 +23,7 @@ Sou desenvolvedor com foco em human experience, minha maior motivação é a opo
 <br/>
 🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono
 
-#### **Tecnologias**
+### **Tecnologias**
 
 ![HTML5](https://img.shields.io/badge/HTML5-1d1d1d?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1d1d1d?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -36,7 +36,7 @@ Sou desenvolvedor com foco em human experience, minha maior motivação é a opo
 ![Bash Script](https://img.shields.io/badge/Bash_Script-1d1d1d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Markdown](https://img.shields.io/badge/Markdown-1d1d1d?style=for-the-badge&logo=markdown&logoColor=00FFFF)
 
-#### **Ferramentas**
+### **Ferramentas**
 
 ![Archlinux](https://img.shields.io/badge/Archlinux-1d1d1d?style=for-the-badge&logo=archlinux&logoColor=1793D1)
 ![Debian](https://img.shields.io/badge/Debian-1d1d1d?style=for-the-badge&logo=debian&logoColor=A81D33)
@@ -48,3 +48,9 @@ Sou desenvolvedor com foco em human experience, minha maior motivação é a opo
 ![Git](https://img.shields.io/badge/Git-1d1d1d?style=for-the-badge&logo=git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/Github-1d1d1d?style=for-the-badge&logo=github&logoColor=00FFFF)
 ![Trello](https://img.shields.io/badge/Trello-1d1d1d?style=for-the-badge&logo=trello&logoColor=0052CC)
+
+---
+
+<br/>
+
+<h5 align="center"><strong>2021</strong> Feito com 💕 por <strong>Stenio Almeida</strong>.</h5>
