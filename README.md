@@ -23,7 +23,7 @@
 [
 ![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
 [
-![Whatsapp](https://img.shields.io/badge/Whatsapp-2d2d2d?style=for-the-badge&logo=whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F/)](https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F/)
+![Whatsapp](https://img.shields.io/badge/Whatsapp-2d2d2d?style=for-the-badge&logo=whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F/)](https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F)
 [
 ![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=00FFFF&link=https://www.instagram.com/stenioas)](https://www.instagram.com/in/stenioas/)
 [
