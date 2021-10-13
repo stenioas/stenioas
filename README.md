@@ -1,51 +1,48 @@
-# **Olá!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> 🤓
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">🤓 <strong>Oi, eu sou o Stenio!</strong></h1>
 
-Meu nome é Stenio Almeida! Que bacana te ver por aqui! 🤗
+#### ℹ️ **Sobre**
 
-> Ex-atleta 🏀 • Musicista 🎸 • Cinéfilo 🎬 • Amante de matemática 📐 • Aventureiro gastronômico 🍲 • Apaixonado por games 👾 • Estudante de programação 👨🏻‍💻 • Entusiasta de UX/UI Design 🎨
-
-##### ℹ️ **INFO**
-
-- 💼 **Desenvolvedor Front-end** com foco em UX;
-- 🌱 Atualmente estudo **`React`** e **`TypeScript`**;
+- 💼 Sou **Desenvolvedor Front-end** com foco em UX;
+- 🌱 Estudando atualmente **`React`** e **`TypeScript`**;
 - 🤝🏼 Busco ser voluntário em projetos open source, sociais e pro bono;
 - 🤍 Amo compartilhar conhecimento;
 - 💬 Me pergunte sobre qualquer coisa;
 - 💌 Adoro conhecer pessoas, não hesite em me enviar uma mensagem.
 
-##### ⚡ **TECNOLOGIAS**
+#### 🧰 **Tecnologias e Ferramentas**
 
 [
-![Javascript](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript)]()
+![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=flat-square&logo=html5&logoColor=00FFFF)]()
 [
-![Typescript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square&logo=typescript)]()
+![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=flat-square&logo=css3&logoColor=00FFFF)]()
 [
-![React](https://img.shields.io/badge/React-2d2d2d?style=flat-square&logo=react)]()
+![Javascript](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=00FFFF)]()
 [
-![Node](https://img.shields.io/badge/Node-2d2d2d?style=flat-square&logo=node.js&logoColor=339933)]()
+![Typescript](https://img.shields.io/badge/TypeScript-2d2d2d?style=flat-square&logo=typescript&logoColor=00FFFF)]()
 [
-![Styled Components](https://img.shields.io/badge/Styled_Components-2d2d2d?style=flat-square&logo=styled-components)]()
+![React](https://img.shields.io/badge/React-2d2d2d?style=flat-square&logo=react&logoColor=00FFFF)]()
 [
-![SCSS](https://img.shields.io/badge/SCSS-2d2d2d?style=flat-square&logo=sass&logoColor=CC6699)]()
+![Node](https://img.shields.io/badge/Node-2d2d2d?style=flat-square&logo=node.js&logoColor=00FFFF)]()
 [
-![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=3776AB)]()
+![Styled Components](https://img.shields.io/badge/Styled_Components-2d2d2d?style=flat-square&logo=styled-components&logoColor=00FFFF)]()
 [
-![Bash](https://img.shields.io/badge/Bash-2d2d2d?style=flat-square&logo=gnubash&logoColor=4EAA25)]()
+![SCSS](https://img.shields.io/badge/SCSS-2d2d2d?style=flat-square&logo=sass&logoColor=00FFFF)]()
+[
+![Python](https://img.shields.io/badge/Python-2d2d2d?style=flat-square&logo=python&logoColor=00FFFF)]()
+[
+![Bash](https://img.shields.io/badge/Bash-2d2d2d?style=flat-square&logo=gnubash&logoColor=00FFFF)]()
+[
+![Figma](https://img.shields.io/badge/Figma-2d2d2d?style=flat-square&logo=figma&logoColor=00FFFF)]()
+[
+![Linux](https://img.shields.io/badge/Linux-2d2d2d?style=flat-square&logo=linux&logoColor=00FFFF)]()
+[
+![Windows](https://img.shields.io/badge/Windows-2d2d2d?style=flat-square&logo=windows&logoColor=00FFFF)]()
+[
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-2d2d2d?style=flat-square&logo=visualstudiocode&logoColor=00FFFF)]()
+[
+![Trello](https://img.shields.io/badge/Trello-2d2d2d?style=flat-square&logo=trello&logoColor=00FFFF)]()
 
-##### 🧰 **FERRAMENTAS**
-
-[
-![Linux](https://img.shields.io/badge/Linux-2d2d2d?style=flat-square&logo=linux&logoColor=FCC624)]()
-[
-![VSCode](https://img.shields.io/badge/VSCode-2d2d2d?style=flat-square&logo=visualstudiocode&logoColor=007ACC)]()
-[
-![Insomnia](https://img.shields.io/badge/Insomnia-2d2d2d?style=flat-square&logo=insomnia&logoColor=5849BE)]()
-[
-![Figma](https://img.shields.io/badge/Figma-2d2d2d?style=flat-square&logo=figma&logoColor=F24E1E)]()
-[
-![Trello](https://img.shields.io/badge/Trello-2d2d2d?style=flat-square&logo=trello&logoColor=0052CC)]()
-
-##### 🙋🏻 **SOCIAL**
+#### 🙋🏻 **Vamos nos conectar?**
 
 [
 ![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
