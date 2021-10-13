@@ -1,6 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">🤓 <strong>Oi, eu sou o Stenio!</strong></h1>
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">🤓 <strong>Oi, eu sou o Stenio!</strong></h1>
 
-## ℹ️ **Sobre**
+#### ℹ️ **Sobre**
 
 - 💼 Sou **Desenvolvedor Front-end** com foco em UX;
 - 🌱 Estudando atualmente **`React`** e **`TypeScript`**;
@@ -10,15 +10,15 @@
 - 💌 Adoro conhecer pessoas, não hesite em me enviar uma mensagem.
 -
 
-## ⚡ **Habilidades**
+#### ⚡ **Habilidades**
 
 - **`HTML5`** **`CSS3`** **`JavaScript`** **`React`** **`Styled Components`** **`SCSS`** **`Python`** **`Shell Script`** **`Markdown`**
 
-## 🧰 **Ferramentas**
+#### 🧰 **Ferramentas**
 
 - **`Linux`** **`Windows`** **`VSCode`** **`Git`** **`Figma`** **`Trello`**
 
-## 🙋🏻 **Vamos nos conectar?**
+#### 🙋🏻 **Vamos nos conectar?**
 
 [
 ![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
