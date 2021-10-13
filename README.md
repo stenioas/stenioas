@@ -12,11 +12,11 @@
 
 ## ⚡ **Habilidades**
 
-- **`HTML5`**, **`CSS3`**, **`JavaScript`**, **`React`**, **`Styled Components`**, **`SCSS`**, **`Python`**, **`Shell Script`** e **`Markdown`**.
+- **`HTML5`** **`CSS3`** **`JavaScript`** **`React`** **`Styled Components`** **`SCSS`** **`Python`** **`Shell Script`** **`Markdown`**
 
 ## 🧰 **Ferramentas**
 
-- **`Linux`**, **`Windows`**, **`VSCode`**, **`Git`**, **`Figma`** e **`Trello`**.
+- **`Linux`** **`Windows`** **`VSCode`** **`Git`** **`Figma`** **`Trello`**
 
 ## 🙋🏻 **Vamos nos conectar?**
 
