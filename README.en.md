@@ -1,4 +1,4 @@
-<p align="right"><a href="./README.en.md">README in English</a></p>
+Click [here](./docs/readme-en.md) for the english version!
 
 ![Cover](https://raw.githubusercontent.com/stenioas/stenioas/main/etc/social-cover-compact.png)
 
@@ -52,26 +52,6 @@ Sou desenvolvedor com foco em human experience. Minha maior motivação é a opo
 ![Git](https://img.shields.io/badge/Git-1d1d1d?style=for-the-badge&logo=git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/Github-1d1d1d?style=for-the-badge&logo=github&logoColor=00FFFF)
 ![Trello](https://img.shields.io/badge/Trello-1d1d1d?style=for-the-badge&logo=trello&logoColor=0052CC)
-
-<details>
-
-<summary><strong>Mais informações...</strong></summary>
-<br />
-
-<img src="https://img.shields.io/github/followers/stenioas.svg?style=social&label=Seguidores&maxAge=2592000" alt="Github followers" />
-
-<br />
-<br />
-
-<div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=stenioas&count_private=true&show_icons=true&theme=dark" alt="Github Stats" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&theme=dark&langs_count=8" alt="Top langs" height="180em"/>
-
-</div>
-
-</details>
 
 <br/>
 
