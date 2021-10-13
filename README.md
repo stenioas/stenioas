@@ -1,30 +1,42 @@
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">🤓 <strong>Oi, eu sou o Stenio!</strong></h1>
+## **Oi, eu sou o Stenio!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">🤓
 
-#### ℹ️ **Sobre**
+Click [here]() for the english version!
 
-- 💼 Sou **Desenvolvedor Front-end** com foco em UX;
-- 🌱 Estudando atualmente **`React`** e **`TypeScript`**;
-- 🤝🏼 Busco ser voluntário em projetos open source, sociais e pro bono;
-- 🤍 Amo compartilhar conhecimento;
-- 💬 Me pergunte sobre qualquer coisa;
-- 💌 Adoro conhecer pessoas, não hesite em me enviar uma mensagem.
--
+> _Aficionado por tecnologia, estudante de programação e entusiasta de UX/UI Design._
 
-#### ⚡ **Habilidades**
+[
+![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
+[
+![Instagram](https://img.shields.io/badge/INstagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FFFF&link=https://www.instagram.com/stenioas)](https://www.instagram.com/stenioas/)
 
-- **`HTML5`** **`CSS3`** **`JavaScript`** **`React`** **`Styled Components`** **`SCSS`** **`Python`** **`Shell Script`** **`Markdown`**
+#### ℹ️ **Sobre mim**
+
+- 🧑🏻‍💻 Sou **Desenvolvedor Front-end** com foco em UX
+- 🌱 Atualmente estou evoluindo em **`React`**
+- 🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono
+
+#### ⚡ **Tecnologias**
+
+![HTML5](https://img.shields.io/badge/HTML5-1d1d1d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1d1d1d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Javascript](https://img.shields.io/badge/Javascript-1d1d1d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1d1d1d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/Styled_Components-1d1d1d?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+![SCSS](https://img.shields.io/badge/SCSS-1d1d1d?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+![Python](https://img.shields.io/badge/Python-1d1d1d?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bash Script](https://img.shields.io/badge/Bash_Script-1d1d1d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Markdown](https://img.shields.io/badge/Markdown-1d1d1d?style=for-the-badge&logo=markdown&logoColor=00FFFF)
 
 #### 🧰 **Ferramentas**
 
-- **`Linux`** **`Windows`** **`VSCode`** **`Git`** **`Figma`** **`Trello`**
+![Archlinux](https://img.shields.io/badge/Archlinux-1d1d1d?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Debian](https://img.shields.io/badge/Debian-1d1d1d?style=for-the-badge&logo=debian&logoColor=A81D33)
+![Linux](https://img.shields.io/badge/Linux-1d1d1d?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-1d1d1d?style=for-the-badge&logo=windows&logoColor=0078D6)
 
-#### 🙋🏻 **Vamos nos conectar?**
-
-[
-![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
-[
-![Whatsapp](https://img.shields.io/badge/Whatsapp-2d2d2d?style=for-the-badge&logo=whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F/)](https://api.whatsapp.com/send?phone=5585988147879&text=Oi%2C%20Stenio!%20Tudo%20bem%3F%20Te%20vi%20no%20Github!%20Podemos%20conversar%3F)
-[
-![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=00FFFF&link=https://www.instagram.com/stenioas)](https://www.instagram.com/in/stenioas/)
-[
-![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-1d1d1d?style=for-the-badge&logo=visualstudiocode&logoColor=0078D6)
+![Figma](https://img.shields.io/badge/Figma-1d1d1d?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-1d1d1d?style=for-the-badge&logo=git&logoColor=F05032)
+![Github](https://img.shields.io/badge/Github-1d1d1d?style=for-the-badge&logo=github&logoColor=00FFFF)
+![Trello](https://img.shields.io/badge/Trello-1d1d1d?style=for-the-badge&logo=trello&logoColor=0052CC)
