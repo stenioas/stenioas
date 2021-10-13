@@ -1,21 +1,29 @@
 ## **Oi, eu sou o Stenio!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">🤓
 
-Click [here]() for the english version!
+<!-- Click [here](./docs/readme-en.md) for the english version! -->
 
 > _Aficionado por tecnologia, estudante de programação e entusiasta de UX/UI Design._
 
+Sou desenvolvedor com foco em human experience, minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
+
 [
-![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
+![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
 [
-![Instagram](https://img.shields.io/badge/INstagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FFFF&link=https://www.instagram.com/stenioas)](https://www.instagram.com/stenioas/)
+![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=00FFFF&link=https://www.instagram.com/stenioas)](https://www.instagram.com/stenioas/)
 
-#### ℹ️ **Sobre mim**
+---
 
-- 🧑🏻‍💻 Sou **Desenvolvedor Front-end** com foco em UX
-- 🌱 Atualmente estou evoluindo em **`React`**
-- 🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono
+#### **Sobre**
 
-#### ⚡ **Tecnologias**
+💼 Atualmente estudo desenvolvimento front-end
+<br/>
+🌱 Atualmente estudo `React`
+<br/>
+🧐 Interesse em aprender `Rust`
+<br/>
+🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono
+
+#### **Tecnologias**
 
 ![HTML5](https://img.shields.io/badge/HTML5-1d1d1d?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1d1d1d?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -28,7 +36,7 @@ Click [here]() for the english version!
 ![Bash Script](https://img.shields.io/badge/Bash_Script-1d1d1d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Markdown](https://img.shields.io/badge/Markdown-1d1d1d?style=for-the-badge&logo=markdown&logoColor=00FFFF)
 
-#### 🧰 **Ferramentas**
+#### **Ferramentas**
 
 ![Archlinux](https://img.shields.io/badge/Archlinux-1d1d1d?style=for-the-badge&logo=archlinux&logoColor=1793D1)
 ![Debian](https://img.shields.io/badge/Debian-1d1d1d?style=for-the-badge&logo=debian&logoColor=A81D33)
