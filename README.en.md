@@ -1,12 +1,10 @@
-Click [here](./docs/readme-en.md) for the english version!
-
 ![Cover](https://raw.githubusercontent.com/stenioas/stenioas/main/etc/social-cover-compact.png)
 
-## **Oi, eu sou o Stenio!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">🤓
+## **Hi, I'm Stenio!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">🤓
 
-> _Aficionado por tecnologia, estudante de programação e entusiasta de UX/UI Design, além de ex-atleta, musicista, cinéfilo, aventureiro gastronômico e apaixonado por games e matemática._
+> _Technology buff, programming student and UX/UI Design enthusiast, besides being a former athlete, musician, movie buff, gastronomic adventurer and passionate about games and math._
 
-Sou desenvolvedor com foco em human experience. Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
+I'm a developer focused on human experience. My biggest motivation is the daily opportunity to share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!
 
 [
 ![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
@@ -17,17 +15,15 @@ Sou desenvolvedor com foco em human experience. Minha maior motivação é a opo
 
 #### **Info**
 
-🌱 Atualmente estudo desenvolvimento `front-end`
+💼 I’m currently working as **Front-end Developer**
 <br/>
-🌱 Atualmente estudo `React`
+🌱 I'm currently learning **React**
 <br/>
-🧐 Interesse em aprender `Flutter`
+🧐 I'm interested in **Flutter** and **Rust**
 <br/>
-🧐 Interesse em aprender `Rust`
-<br/>
-🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono
+🤝🏼 I like to contribute to open source, social and pro bono projects
 
-#### **Tecnologias**
+#### **Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/HTML5-1d1d1d?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1d1d1d?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -40,7 +36,7 @@ Sou desenvolvedor com foco em human experience. Minha maior motivação é a opo
 ![Bash Script](https://img.shields.io/badge/Bash_Script-1d1d1d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Markdown](https://img.shields.io/badge/Markdown-1d1d1d?style=for-the-badge&logo=markdown&logoColor=00FFFF)
 
-#### **Ferramentas**
+#### **Tools**
 
 ![Archlinux](https://img.shields.io/badge/Archlinux-1d1d1d?style=for-the-badge&logo=archlinux&logoColor=1793D1)
 ![Debian](https://img.shields.io/badge/Debian-1d1d1d?style=for-the-badge&logo=debian&logoColor=A81D33)
@@ -53,8 +49,28 @@ Sou desenvolvedor com foco em human experience. Minha maior motivação é a opo
 ![Github](https://img.shields.io/badge/Github-1d1d1d?style=for-the-badge&logo=github&logoColor=00FFFF)
 ![Trello](https://img.shields.io/badge/Trello-1d1d1d?style=for-the-badge&logo=trello&logoColor=0052CC)
 
+<details>
+
+<summary><strong>More about me...</strong></summary>
+<br />
+
+<img src="https://img.shields.io/github/followers/stenioas.svg?style=social&label=Followers&maxAge=2592000" alt="Github followers" />
+
+<br />
+<br />
+
+<div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=stenioas&count_private=true&show_icons=true&theme=dark" alt="Github Stats" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&theme=dark&langs_count=8" alt="Top langs" height="180em"/>
+
+</div>
+
+</details>
+
 <br/>
 
 ---
 
-<p align="center"><strong>2021</strong> Feito com 💕 por <strong>Stenio Almeida</strong>.</p>
+<p align="center"><strong>2021</strong> Made with 💕 by <strong>Stenio Almeida</strong>.</p>
