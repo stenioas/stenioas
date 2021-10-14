@@ -11,7 +11,9 @@ I'm a developer focused on human experience. My biggest motivation is the daily 
 [
 ![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FFFF&link=https://www.instagram.com/stenioas)](https://www.instagram.com/stenioas/)
 
----
+<details>
+
+<summary><strong>More about me...</strong></summary>
 
 #### **Info**
 
@@ -53,10 +55,7 @@ I'm a developer focused on human experience. My biggest motivation is the daily 
 ![Github](https://img.shields.io/badge/Github-1d1d1d?style=for-the-badge&logo=github&logoColor=00FFFF)
 ![Trello](https://img.shields.io/badge/Trello-1d1d1d?style=for-the-badge&logo=trello&logoColor=0052CC)
 
-<details>
-
-<summary><strong>More about me...</strong></summary>
-<br />
+#### **Github Stats**
 
 <img src="https://img.shields.io/github/followers/stenioas.svg?style=social&label=Followers&maxAge=2592000" alt="Github followers" /><br />
 
