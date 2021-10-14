@@ -17,11 +17,11 @@ Sou desenvolvedor com foco em human experience. Minha maior motivação é a opo
 
 #### **Info**
 
-💼 Atualmente sou **Desenvolvedor Front-end**
+💼 Trabalhando como **Desenvolvedor Front-end**
 <br/>
-🌱 Atualmente estou aprendendo **React**
+🌱 Aprendendo **React**
 <br/>
-🧐 Tenho interesse em **Flutter** e **Rust**
+🧐 Interessado em **Flutter** e **Rust**
 <br/>
 🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono
 

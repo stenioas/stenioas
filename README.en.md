@@ -15,11 +15,11 @@ I'm a developer focused on human experience. My biggest motivation is the daily 
 
 #### **Info**
 
-💼 I’m currently working as **Front-end Developer**
+💼 Working as **Front-end Developer**
 <br/>
-🌱 I'm currently learning **React**
+🌱 Learning **React**
 <br/>
-🧐 I'm interested in **Flutter** and **Rust**
+🧐 Interested in **Flutter** and **Rust**
 <br/>
 🤝🏼 I like to contribute to open source, social and pro bono projects
 
