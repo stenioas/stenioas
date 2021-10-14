@@ -58,22 +58,13 @@ I'm a developer focused on human experience. My biggest motivation is the daily 
 <summary><strong>More about me...</strong></summary>
 <br />
 
-<img src="https://img.shields.io/github/followers/stenioas.svg?style=social&label=Followers&maxAge=2592000" alt="Github followers" />
-
-<br />
-<br />
+<img src="https://img.shields.io/github/followers/stenioas.svg?style=social&label=Followers&maxAge=2592000" alt="Github followers" /><br />
 
 <div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=stenioas&count_private=true&show_icons=true&theme=dark" alt="Github Stats" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&theme=dark&langs_count=8" alt="Top langs" height="180em"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=stenioas&count_private=true&show_icons=true&theme=dark" alt="Github Stats" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&theme=dark&langs_count=8" alt="Top langs" height="180em"/>
 </div>
 
 </details>
-
-<br/>
 
 ---
 
