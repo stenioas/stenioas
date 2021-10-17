@@ -19,17 +19,12 @@
 
 ## **About me**
 
-- 💼 I'm currently working on my Portfolio.
-  <br/>
-- 🌱 I'm currently learning more about **React** and **Next.js**
-  <br/>
-- 🧐 I'm interested in **Flutter** and **Rust**.
-  <br/>
-- 🤝🏼 I like to contribute to open source, social and pro bono projects.
-  <br/>
-- 💬 Ask me about anything [**here**]().
-  <br/>
-- 💌 Send me a message, it's free! 🤗
+💼 I'm currently working on my Portfolio.<br>
+🌱 I'm currently learning more about **React** and **Next.js**<br/>
+🧐 I'm interested in **Flutter** and **Rust**.<br/>
+🤝🏼 I like to contribute to open source, social and pro bono projects<br/>
+💬 Ask me about anything [**here**](https://t.me/stenioas/)<br/>
+💌 Send me a message, it's free! 🤗
 
 ## **Techs & Tools**
 
