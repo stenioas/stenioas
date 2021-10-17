@@ -4,9 +4,7 @@
 
 ## **Oi, eu sou o Stenio!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">🤓
 
-> _Aficionado por tecnologia, estudante de programação e entusiasta de UX/UI Design, além de ex-atleta, musicista, cinéfilo, aventureiro gastronômico e apaixonado por games e matemática._
-
-Sou desenvolvedor com foco em human experience. Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
+> Desenvolvedor com foco em human experience. Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
 
 [
 ![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/)
