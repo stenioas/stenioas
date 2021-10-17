@@ -28,41 +28,8 @@
 
 ## **Techs & Tools**
 
-<!-- Development -->
-<img src="./etc/assets/development.svg" title="Development" alt="Development" />
-<img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" />
-<img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" />
-<img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" />
-<img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" />
-<img src="./etc/assets/react.svg" title="React" alt="React" />
-<img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" />
-<img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" />
-<img src="./etc/assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap" /><br/>
-<!-- Scripting -->
-<img src="./etc/assets/scripting.svg" title="Scripting" alt="Scripting" />
-<img src="./etc/assets/python.svg" title="Python" alt="Python" />
-<img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" /><br/>
-<!-- Operating Systems -->
-<img src="./etc/assets/operating-systems.svg" title="Operating Systems" alt="Operating Systems" />
-<img src="./etc/assets/archlinux.svg" title="Archlinux" alt="Archlinux" />
-<img src="./etc/assets/debian.svg" title="Debian" alt="Debian" />
-<img src="./etc/assets/windows.svg" title="Windows" alt="Windows" /><br/>
-<!-- Tools -->
-<img src="./etc/assets/tools.svg" title="Tools" alt="Tools" />
-<img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" />
-<img src="./etc/assets/npm.svg" title="NPM" alt="NPM" />
-<img src="./etc/assets/insomnia.svg" title="Insomnia" alt="Insomnia" />
-<img src="./etc/assets/git.svg" title="Git" alt="Git" />
-<img src="./etc/assets/github.svg" title="Github" alt="Github" />
-<img src="./etc/assets/figma.svg" title="Figma" alt="Figma" />
-<img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" />
-<img src="./etc/assets/trello.svg" title="Trello" alt="Trello" /><br/>
-<!-- I'm newbie -->
-<img src="./etc/assets/imnewbie.svg" title="I'm newbie" alt="I'm newbie" />
-<img src="./etc/assets/next.svg" title="Next" alt="Next" />
-<img src="./etc/assets/node.svg" title="Node" alt="Node" />
-<img src="./etc/assets/graphql.svg" title="GraphQL" alt="GraphQL" />
-<img src="./etc/assets/vtex.svg" title="VTEX" alt="VTEX" />
+<img src="./etc/assets/development.svg" title="Development" alt="Development" /> <img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" /> <img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" /> <img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" /> <img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" /> <img src="./etc/assets/react.svg" title="React" alt="React" /> <img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" /> <img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" /> <img src="./etc/assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap" /><br/><img src="./etc/assets/scripting.svg" title="Scripting" alt="Scripting" /> <img src="./etc/assets/python.svg" title="Python" alt="Python" /> <img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" /><br/><img src="./etc/assets/operating-systems.svg" title="Operating Systems" alt="Operating Systems" /> <img src="./etc/assets/archlinux.svg" title="Archlinux" alt="Archlinux" /> <img src="./etc/assets/debian.svg" title="Debian" alt="Debian" /> <img src="./etc/assets/windows.svg" title="Windows" alt="Windows" /><br/><img src="./etc/assets/tools.svg" title="Tools" alt="Tools" /> <img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" /> <img src="./etc/assets/npm.svg" title="NPM" alt="NPM" />
+<img src="./etc/assets/insomnia.svg" title="Insomnia" alt="Insomnia" /> <img src="./etc/assets/git.svg" title="Git" alt="Git" /> <img src="./etc/assets/github.svg" title="Github" alt="Github" /> <img src="./etc/assets/figma.svg" title="Figma" alt="Figma" /> <img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" /> <img src="./etc/assets/trello.svg" title="Trello" alt="Trello" /><br/><img src="./etc/assets/imnewbie.svg" title="I'm newbie" alt="I'm newbie" /> <img src="./etc/assets/next.svg" title="Next" alt="Next" /> <img src="./etc/assets/node.svg" title="Node" alt="Node" /> <img src="./etc/assets/graphql.svg" title="GraphQL" alt="GraphQL" /> <img src="./etc/assets/vtex.svg" title="VTEX" alt="VTEX" />
 
 ## **Github Stats**
 
