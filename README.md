@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/stenioas/"><img src="./etc/assets/linkedinwithlabel.svg" alt="Linkedin"/></a>
-<a href="https://www.instagram.com/stenioas/"><img src="./etc/assets/instagramwithlabel.svg" /></a>
-<a href="https://t.me/stenioas/"><img src="./etc/assets/telegramwithlabel.svg" /></a>
-<img src="./etc/assets/discordwithlabel.svg" />
+<a href="https://www.linkedin.com/in/stenioas/"><img src="./etc/assets/linkedinwithlabel.svg" alt="Linkedin username" /></a>
+<a href="https://www.instagram.com/stenioas/"><img src="./etc/assets/instagramwithlabel.svg" alt="Instagram username" /></a>
+<a href="https://t.me/stenioas/"><img src="./etc/assets/telegramwithlabel.svg" alt="Telegram username" /></a>
+<img src="./etc/assets/discordwithlabel.svg" alt="Discord username" />
 
 </div>
 
