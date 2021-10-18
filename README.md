@@ -44,7 +44,7 @@
 
 <h5><strong>Beginner</strong></h5>
 
-<img src="./etc/assets/typescript.svg" title="TypeScript" width="32" height="32" alt="Typescript" /> <img src="./etc/assets/next.svg" title="Next" width="32" height="32" alt="Next" /> <img src="./etc/assets/graphql.svg" title="GraphQL" width="32" height="32" alt="GraphQL" /> <img src="./etc/assets/node.svg" title="Node" width="32" height="32" alt="Node" /> <img src="./etc/assets/aws.svg" title="Amazon Web Services" width="32" height="32" alt="Amazon Web Services" /> <img src="./etc/assets/vtex.svg" title="VTEX" width="32" height="32" alt="VTEX" />
+<img src="./etc/assets/typescript.svg" title="TypeScript" width="32" height="32" alt="Typescript" /> <img src="./etc/assets/material-ui.svg" title="Material UI" width="32" height="32" alt="Material UI" /> <img src="./etc/assets/next.svg" title="Next" width="32" height="32" alt="Next" /> <img src="./etc/assets/graphql.svg" title="GraphQL" width="32" height="32" alt="GraphQL" /> <img src="./etc/assets/node.svg" title="Node" width="32" height="32" alt="Node" /> <img src="./etc/assets/aws.svg" title="Amazon Web Services" width="32" height="32" alt="Amazon Web Services" /> <img src="./etc/assets/vtex.svg" title="VTEX" width="32" height="32" alt="VTEX" />
 
 <details>
 <summary><strong>More about me...</strong></summary>
