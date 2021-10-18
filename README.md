@@ -6,16 +6,10 @@
 
 <div align="center">
 
-[
-![Linkedin](./etc/assets/linkedinwithlabel.svg)
-](https://www.linkedin.com/in/stenioas/)
-[
-![Instagram](./etc/assets/instagramwithlabel.svg)
-](https://www.instagram.com/stenioas/)
-[
-![Telegram](./etc/assets/telegramwithlabel.svg)
-](https://t.me/stenioas/)
-![Discord](./etc/assets/discordwithlabel.svg)
+<a href="https://www.linkedin.com/in/stenioas/"><img src="./etc/assets/linkedinwithlabel.svg" alt="Linkedin"/></a>
+<a href="https://www.instagram.com/stenioas/"><img src="./etc/assets/instagramwithlabel.svg" /></a>
+<a href="https://t.me/stenioas/"><img src="./etc/assets/telegramwithlabel.svg" /></a>
+<img src="./etc/assets/discordwithlabel.svg" />
 
 </div>
 
