@@ -28,8 +28,6 @@
 
 </div>
 
----
-
 <h2><strong>About me</strong></h2>
 
 💼 I'm currently working on my **Portfolio**.<br>
