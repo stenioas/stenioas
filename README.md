@@ -58,6 +58,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=stenioas&count_private=true&show_icons=true&theme=react" alt="Github Stats" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stenioas&layout=compact&theme=react&langs_count=8" alt="Top langs" height="180em"/>
 </div>
 
+</details>
+
 ---
 
 <p align="center"><strong>2021&copy;</strong> Made with 💕 by <strong>Stenio Almeida</strong>.</p>
