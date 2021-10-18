@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/stenioas/"><img src="./etc/assets/linkedinwithlabel.svg" alt="Linkedin username" /></a>
 <a href="https://www.instagram.com/stenioas/"><img src="./etc/assets/instagramwithlabel.svg" alt="Instagram username" /></a>
 <a href="https://t.me/stenioas/"><img src="./etc/assets/telegramwithlabel.svg" alt="Telegram username" /></a>
-<a href="/"><img src="./etc/assets/discordwithlabel.svg" alt="Discord username" /></a>
+<a href="#"><img src="./etc/assets/discordwithlabel.svg" alt="Discord username" /></a>
 
 </div>
 
