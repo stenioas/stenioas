@@ -14,9 +14,9 @@
 💌 Send me a message, it's free! 🤗<br/>
 ⚡ Fun fact: I make delicious tapiocas with grated coconut!
 
-[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="48" height="48" />][linkedin]&nbsp;
-[<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="48" height="48" />][gmail]&nbsp;
-[<img src="./etc/assets/social-instagram.svg" alt="Instagram" width="48" height="48" />][instagram]&nbsp;
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="48" height="48" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="48" height="48" />][gmail]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram" width="48" height="48" />][instagram]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="./etc/assets/social-telegram.svg" alt="Telegram" width="48" height="48" />][telegram]
 
 <details>
