@@ -4,12 +4,7 @@
 
 <samp><strong>Hi, I'm Stenio Almeida, Software Developer focused on human experience. My biggest motivation is the daily opportunity to share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!</strong></samp>
 
-[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin User" />][linkedin]&nbsp;
-[<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;
-[<img src="./etc/assets/social-instagram.svg" alt="Instagram User username" />][instagram]&nbsp;
-[<img src="./etc/assets/social-telegram.svg" alt="Linkedin User" />][telegram]
-
-#### **Main techs and tools**
+#### **Main Techs and Tools**
 
 <img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" /><img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" /><img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" /><img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" /><img src="./etc/assets/react.svg" title="React" alt="React" /><img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" /><img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" /><img src="./etc/assets/figma.svg" title="Figma" alt="Figma" /><img src="./etc/assets/python.svg" title="Python" alt="Python" /><img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" /><img src="./etc/assets/linux.svg" title="Linux" alt="Linux" /><img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" /><img src="./etc/assets/npm.svg" title="NPM" alt="NPM" /><img src="./etc/assets/yarn.svg" title="Yarn" alt="Yarn" /><img src="./etc/assets/git.svg" title="Git" alt="Git" /><img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" /><img src="./etc/assets/mdnwebdocs.svg" title="MDN Web Docs" alt="MDN Web Docs" />
 
@@ -36,6 +31,16 @@
 </details>
 
 ---
+
+<div align="center">
+<br/>
+
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin User" />][linkedin]&nbsp;
+[<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram User username" />][instagram]&nbsp;
+[<img src="./etc/assets/social-telegram.svg" alt="Linkedin User" />][telegram]
+
+</div>
 
 <p align="center"><strong>2021&copy;</strong> Made with 💕 by <strong>Stenio Almeida</strong>.</p>
 
