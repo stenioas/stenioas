@@ -1,21 +1,17 @@
 <img src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/assets/social-cover-compact.png" alt="Cover" />
 
-<h2><strong>"Hello, World!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
+<h2 align="center"><strong>"Hello, World!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h2>
 
-Hi, I'm Stenio Almeida, developer focused on human experience. My biggest motivation is the opportunity to<br/>share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!
+    Hi, I'm Stenio Almeida, Software Developer focused on human experience. My biggest motivation is the daily opportunity to share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!
 
 [<img src="./etc/assets/social-linkedin.svg" alt="Linkedin User" />][linkedin]&nbsp;
 [<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;
 [<img src="./etc/assets/social-instagram.svg" alt="Instagram User username" />][instagram]&nbsp;
 [<img src="./etc/assets/social-telegram.svg" alt="Linkedin User" />][telegram]
 
-### **Tech Stack**
+#### **Main techs and tools**
 
-<img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" /> <img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" /> <img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" /> <img src="./etc/assets/react.svg" title="React" alt="React" /> <img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" /> <img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" /> <img src="./etc/assets/python.svg" title="Python" alt="Python" /> <img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" /> <img src="./etc/assets/linux.svg" title="Linux" alt="Linux" /> <img src="./etc/assets/windows.svg" title="Windows" alt="Windows" /> <img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" /> <img src="./etc/assets/npm.svg" title="NPM" alt="NPM" /> <img src="./etc/assets/yarn.svg" title="Yarn" alt="Yarn" /> <img src="./etc/assets/insomnia.svg" title="Insomnia" alt="Insomnia" /> <img src="./etc/assets/git.svg" title="Git" alt="Git" /> <img src="./etc/assets/github.svg" title="Github" alt="Github" /> <img src="./etc/assets/figma.svg" title="Figma" alt="Figma" /> <img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" /> <img src="./etc/assets/trello.svg" title="Trello" alt="Trello" /> <img src="./etc/assets/mdnwebdocs.svg" title="MDN Web Docs" alt="MDN Web Docs" />
-
-<h5><strong>Beginner</strong></h5>
-
-<img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" /> <img src="./etc/assets/next.svg" title="Next" alt="Next" /> <img src="./etc/assets/graphql.svg" title="GraphQL" alt="GraphQL" /> <img src="./etc/assets/node.svg" title="Node" alt="Node" /> <img src="./etc/assets/docker.svg" title="Docker" alt="Docker" /> <img src="./etc/assets/aws.svg" title="Amazon Web Services" alt="Amazon Web Services" /> <img src="./etc/assets/vtex.svg" title="VTEX" alt="VTEX" />
+<img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" width="48" height="48" /><img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" width="48" height="48" /><img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" width="48" height="48" /><img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" width="48" height="48" /><img src="./etc/assets/react.svg" title="React" alt="React" width="48" height="48" /><img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" width="48" height="48" /><img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" width="48" height="48" /><img src="./etc/assets/figma.svg" title="Figma" alt="Figma" width="48" height="48" /><img src="./etc/assets/python.svg" title="Python" alt="Python" width="48" height="48" /><img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" width="48" height="48" /><img src="./etc/assets/linux.svg" title="Linux" alt="Linux" width="48" height="48" /><img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="48" height="48" /><img src="./etc/assets/npm.svg" title="NPM" alt="NPM" width="48" height="48" /><img src="./etc/assets/yarn.svg" title="Yarn" alt="Yarn" width="48" height="48" /><img src="./etc/assets/git.svg" title="Git" alt="Git" width="48" height="48" /><img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" width="48" height="48" /><img src="./etc/assets/mdnwebdocs.svg" title="MDN Web Docs" alt="MDN Web Docs" width="48" height="48" />
 
 #### **Bio**
 
