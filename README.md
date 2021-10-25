@@ -1,35 +1,31 @@
-<p align="center"><img src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/assets/social-cover-compact.png" alt="Cover" /></p>
+<img src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/assets/social-cover-compact.png" alt="Cover" />
 
-<h2 align="center"><strong>"Hello, World!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
+<h2><strong>"Hello, World!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
 
-<p align="center">Hi, I'm Stenio Almeida, developer focused on human experience. My biggest motivation is the opportunity to<br/>share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!</p>
+Hi, I'm Stenio Almeida, developer focused on human experience. My biggest motivation is the opportunity to<br/>share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!
 
-<div align="center">
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin User" />][linkedin]&nbsp;
+[<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram User username" />][instagram]&nbsp;
+[<img src="./etc/assets/social-telegram.svg" alt="Linkedin User" />][telegram]
 
-<a href="https://www.linkedin.com/in/stenioas/"><img src="./etc/assets/linkedinwithlabel.svg" alt="Linkedin username" /></a>
-<a href="https://www.instagram.com/stenioas/"><img src="./etc/assets/instagramwithlabel.svg" alt="Instagram username" /></a>
-<a href="https://t.me/stenioas/"><img src="./etc/assets/telegramwithlabel.svg" alt="Telegram username" /></a>
-<a href="#"><img src="./etc/assets/discordwithlabel.svg" alt="Discord username" /></a>
+### **Tech Stack**
 
-</div>
-
-<h2><strong>About me</strong></h2>
-
-💼 I'm currently working on my **Portfolio**.<br>
-🌱 I'm currently learning more about **React** and **Next.js**<br/>
-🧐 I'm interested in **Rust** and **Flutter**.<br/>
-🤝🏼 I like to contribute to open source, social and pro bono projects<br/>
-💬 Ask me about anything [**here**](https://t.me/stenioas/)<br/>
-💌 Send me a message, it's free! 🤗<br/>
-⚡ Fun fact: I make delicious tapiocas with grated coconut!
-
-<h2><strong>Techs & Tools</strong></h2>
-
-<img src="./etc/assets/html5.svg" title="HTML5" width="32" height="32" alt="Html5" /> <img src="./etc/assets/css3.svg" title="CSS3" width="32" height="32" alt="CSS3" /> <img src="./etc/assets/javascript.svg" title="JavaScript" width="32" height="32" alt="Javascript" /> <img src="./etc/assets/react.svg" title="React" width="32" height="32" alt="React" /> <img src="./etc/assets/styled-components.svg" title="Styled Components" width="32" height="32" alt="Styled Components" /> <img src="./etc/assets/scss.svg" title="SCSS" width="32" height="32" alt="SCSS" /> <img src="./etc/assets/bootstrap.svg" title="Bootstrap" width="32" height="32" alt="Bootstrap" /> <img src="./etc/assets/python.svg" title="Python" width="32" height="32" alt="Python" /> <img src="./etc/assets/bashscript.svg" title="Bash Script" width="32" height="32" alt="Bash Script" /> <img src="./etc/assets/linux.svg" title="Linux" width="32" height="32" alt="Linux" /> <img src="./etc/assets/windows.svg" title="Windows" width="32" height="32" alt="Windows" /> <img src="./etc/assets/vscode.svg" title="Visual Studio Code" width="32" height="32" alt="Visual Studio Code" /> <img src="./etc/assets/npm.svg" title="NPM" width="32" height="32" alt="NPM" /> <img src="./etc/assets/yarn.svg" title="Yarn" width="32" height="32" alt="Yarn" /> <img src="./etc/assets/insomnia.svg" title="Insomnia" width="32" height="32" alt="Insomnia" /> <img src="./etc/assets/git.svg" title="Git" width="32" height="32" alt="Git" /> <img src="./etc/assets/github.svg" title="Github" width="32" height="32" alt="Github" /> <img src="./etc/assets/figma.svg" title="Figma" width="32" height="32" alt="Figma" /> <img src="./etc/assets/markdown.svg" title="Markdown" width="32" height="32" alt="Markdown" /> <img src="./etc/assets/trello.svg" title="Trello" width="32" height="32" alt="Trello" /> <img src="./etc/assets/mdnwebdocs.svg" title="MDN Web Docs" width="32" height="32" alt="MDN Web Docs" />
+<img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" /> <img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" /> <img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" /> <img src="./etc/assets/react.svg" title="React" alt="React" /> <img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" /> <img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" /> <img src="./etc/assets/python.svg" title="Python" alt="Python" /> <img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" /> <img src="./etc/assets/linux.svg" title="Linux" alt="Linux" /> <img src="./etc/assets/windows.svg" title="Windows" alt="Windows" /> <img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" /> <img src="./etc/assets/npm.svg" title="NPM" alt="NPM" /> <img src="./etc/assets/yarn.svg" title="Yarn" alt="Yarn" /> <img src="./etc/assets/insomnia.svg" title="Insomnia" alt="Insomnia" /> <img src="./etc/assets/git.svg" title="Git" alt="Git" /> <img src="./etc/assets/github.svg" title="Github" alt="Github" /> <img src="./etc/assets/figma.svg" title="Figma" alt="Figma" /> <img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" /> <img src="./etc/assets/trello.svg" title="Trello" alt="Trello" /> <img src="./etc/assets/mdnwebdocs.svg" title="MDN Web Docs" alt="MDN Web Docs" />
 
 <h5><strong>Beginner</strong></h5>
 
-<img src="./etc/assets/typescript.svg" title="TypeScript" width="32" height="32" alt="Typescript" /> <img src="./etc/assets/material-ui.svg" title="Material UI" width="32" height="32" alt="Material UI" /> <img src="./etc/assets/next.svg" title="Next" width="32" height="32" alt="Next" /> <img src="./etc/assets/graphql.svg" title="GraphQL" width="32" height="32" alt="GraphQL" /> <img src="./etc/assets/node.svg" title="Node" width="32" height="32" alt="Node" /> <img src="./etc/assets/express.svg" title="Express" width="32" height="32" alt="Express" /> <img src="./etc/assets/firebase.svg" title="Firebase" width="32" height="32" alt="Firebase" /> <img src="./etc/assets/vercel.svg" title="Vercel" width="32" height="32" alt="Vercel" /> <img src="./etc/assets/netlify.svg" title="Netlify" width="32" height="32" alt="Netlify" /> <img src="./etc/assets/docker.svg" title="Docker" width="32" height="32" alt="Docker" /> <img src="./etc/assets/aws.svg" title="Amazon Web Services" width="32" height="32" alt="Amazon Web Services" /> <img src="./etc/assets/vtex.svg" title="VTEX" width="32" height="32" alt="VTEX" />
+<img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" /> <img src="./etc/assets/next.svg" title="Next" alt="Next" /> <img src="./etc/assets/graphql.svg" title="GraphQL" alt="GraphQL" /> <img src="./etc/assets/node.svg" title="Node" alt="Node" /> <img src="./etc/assets/docker.svg" title="Docker" alt="Docker" /> <img src="./etc/assets/aws.svg" title="Amazon Web Services" alt="Amazon Web Services" /> <img src="./etc/assets/vtex.svg" title="VTEX" alt="VTEX" />
+
+#### **Bio**
+
+💼 I'm currently working on my **Portfolio**<br>
+🌱 I'm currently learning more about **React** and **Next.js**<br/>
+🧐 I'm interested in **Rust** and **Flutter**.<br/>
+🤝🏼 I like to contribute to open source, social and pro bono projects<br/>
+💬 Ask me about anything [**here**][telegram]<br/>
+💌 Send me a message, it's free! 🤗<br/>
+⚡ Fun fact: I make delicious tapiocas with grated coconut!
 
 <details>
 <summary><strong>More about me...</strong></summary>
@@ -46,3 +42,10 @@
 ---
 
 <p align="center"><strong>2021&copy;</strong> Made with 💕 by <strong>Stenio Almeida</strong>.</p>
+
+<!-- links -->
+
+[linkedin]: https://linkedin.com/in/stenioas/
+[instagram]: https://instagram.com/stenioas/
+[telegram]: https://t.me/stenioas/
+[gmail]: mailto:stenioas@gmail.com
