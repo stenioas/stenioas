@@ -14,14 +14,18 @@
 💌 Send me a message, it's free! 🤗<br/>
 ⚡ Fun fact: I make delicious tapiocas with grated coconut!
 
-[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin User" />][linkedin]&nbsp;
-[<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;
-[<img src="./etc/assets/social-instagram.svg" alt="Instagram User username" />][instagram]&nbsp;
-[<img src="./etc/assets/social-telegram.svg" alt="Linkedin User" />][telegram]
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="48" height="48" />][linkedin]&nbsp;
+[<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="48" height="48" />][gmail]&nbsp;
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram" width="48" height="48" />][instagram]&nbsp;
+[<img src="./etc/assets/social-telegram.svg" alt="Telegram" width="48" height="48" />][telegram]
 
-## **Main Techs and Tools**
+<details>
+<summary><strong>Main techs and tools...</strong></summary>
+<br/>
 
 <img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" width="36" height="36" /><img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" width="36" height="36" /><img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" width="36" height="36" /><img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" width="36" height="36" /><img src="./etc/assets/react.svg" title="React" alt="React" width="36" height="36" /><img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" width="36" height="36" /><img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" width="36" height="36" /><img src="./etc/assets/figma.svg" title="Figma" alt="Figma" width="36" height="36" /><img src="./etc/assets/python.svg" title="Python" alt="Python" width="36" height="36" /><img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" width="36" height="36" /><img src="./etc/assets/linux.svg" title="Linux" alt="Linux" width="36" height="36" /><img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="36" height="36" /><img src="./etc/assets/npm.svg" title="NPM" alt="NPM" width="36" height="36" /><img src="./etc/assets/yarn.svg" title="Yarn" alt="Yarn" width="36" height="36" /><img src="./etc/assets/git.svg" title="Git" alt="Git" width="36" height="36" /><img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" width="36" height="36" /><img src="./etc/assets/mdnwebdocs.svg" title="MDN Web Docs" alt="MDN Web Docs" width="36" height="36" />
+
+</details>
 
 <details>
 <summary><strong>More about me...</strong></summary>
