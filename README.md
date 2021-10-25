@@ -2,9 +2,7 @@
 
 <h2 align="center"><strong>"Hello, World!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h2>
 
-```
-Hi, I'm Stenio Almeida, Software Developer focused on human experience. My biggest motivation is the daily opportunity to share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!
-```
+<samp>Hi, I'm Stenio Almeida, Software Developer focused on human experience. My biggest motivation is the daily opportunity to share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!</samp>
 
 [<img src="./etc/assets/social-linkedin.svg" alt="Linkedin User" />][linkedin]&nbsp;
 [<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;
