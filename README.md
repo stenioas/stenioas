@@ -33,7 +33,6 @@
 ---
 
 <div align="center">
-<br/>
 
 [<img src="./etc/assets/social-linkedin.svg" alt="Linkedin User" />][linkedin]&nbsp;
 [<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;
