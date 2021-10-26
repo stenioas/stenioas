@@ -1,18 +1,18 @@
-<img src="https://raw.githubusercontent.com/stenioas/stenioas/main/etc/assets/social-cover-compact.png" alt="Cover" />
+<h1><strong>"Olá, Mundo!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
 
-<h1><strong>"Hello, World!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
+Sou **Solutions Developer** com foco em human experience. Minha maior motivação é a oportunidade diária de compartilhar conhecimento, desenvolver soluções eficientes e inovadoras, e melhorar a vida das pessoas por meio da tecnologia!
 
-<strong>Hi, I'm Stenio Almeida, Software Developer focused on human experience. My biggest motivation is the daily opportunity to share knowledge, develop efficient and innovative solutions, and improve people's lives through technology!</strong>
+### **Bio**
 
-## **Bio**
+💼 Aprimorando meu **Portfolio**.<br>
+🌱 Aprendendo mais sobre **React** e **Next.js**.<br/>
+🧐 Interessado em **Rust** e **Flutter**.<br/>
+🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono.<br/>
+💬 Me pergunte sobre qualquer assunto [**aqui**][telegram].<br/>
+💌 Me envie uma mensagem, é grátis! 🤗<br/>
+⚡ Fato curioso: Eu faço desliciosas tapiocas com côco ralado!
 
-💼 I'm currently working on my **Portfolio**<br>
-🌱 I'm currently learning more about **React** and **Next.js**<br/>
-🧐 I'm interested in **Rust** and **Flutter**.<br/>
-🤝🏼 I like to contribute to open source, social and pro bono projects<br/>
-💬 Ask me about anything [**here**][telegram]<br/>
-💌 Send me a message, it's free! 🤗<br/>
-⚡ Fun fact: I make delicious tapiocas with grated coconut!
+### **Onde me encontrar**
 
 [<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="36" height="36" />][linkedin]&nbsp;
 [<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="36" height="36" />][gmail]&nbsp;
@@ -20,15 +20,15 @@
 [<img src="./etc/assets/social-telegram.svg" alt="Telegram" width="36" height="36" />][telegram]
 
 <details>
-<summary><strong>Main techs and tools...</strong></summary>
+<summary><strong>Principais tecnologias e ferramentas...</strong></summary>
 <br/>
 
-<img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" width="36" height="36" /><img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" width="36" height="36" /><img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" width="36" height="36" /><img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" width="36" height="36" /><img src="./etc/assets/react.svg" title="React" alt="React" width="36" height="36" /><img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" width="36" height="36" /><img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" width="36" height="36" /><img src="./etc/assets/figma.svg" title="Figma" alt="Figma" width="36" height="36" /><img src="./etc/assets/python.svg" title="Python" alt="Python" width="36" height="36" /><img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" width="36" height="36" /><img src="./etc/assets/linux.svg" title="Linux" alt="Linux" width="36" height="36" /><img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="36" height="36" /><img src="./etc/assets/npm.svg" title="NPM" alt="NPM" width="36" height="36" /><img src="./etc/assets/yarn.svg" title="Yarn" alt="Yarn" width="36" height="36" /><img src="./etc/assets/git.svg" title="Git" alt="Git" width="36" height="36" /><img src="./etc/assets/markdown.svg" title="Markdown" alt="Markdown" width="36" height="36" /><img src="./etc/assets/mdnwebdocs.svg" title="MDN Web Docs" alt="MDN Web Docs" width="36" height="36" />
+<img src="./etc/assets/html5.svg" title="HTML5" alt="Html5" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/css3.svg" title="CSS3" alt="CSS3" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/javascript.svg" title="JavaScript" alt="Javascript" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/typescript.svg" title="TypeScript" alt="Typescript" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/react.svg" title="React" alt="React" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/styled-components.svg" title="Styled Components" alt="Styled Components" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/scss.svg" title="SCSS" alt="SCSS" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/figma.svg" title="Figma" alt="Figma" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/python.svg" title="Python" alt="Python" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/bashscript.svg" title="Bash Script" alt="Bash Script" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/linux.svg" title="Linux" alt="Linux" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/npm.svg" title="NPM" alt="NPM" width="32" height="32" />&nbsp;&nbsp;<img src="./etc/assets/git.svg" title="Git" alt="Git" width="32" height="32" />
 
 </details>
 
 <details>
-<summary><strong>More about me...</strong></summary>
+<summary><strong>Mais sobre mim...</strong></summary>
 <br/>
 
 <img src="https://img.shields.io/github/followers/stenioas.svg?style=social&label=Followers&maxAge=2592000" alt="Github followers" /><br />
