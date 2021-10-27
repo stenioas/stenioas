@@ -6,7 +6,7 @@ Oi, seja bem vindo! Meu nome é Stenio Almeida, **Solutions Developer** com foco
 
 ### **Bio**
 
-💼 **Software Developer** na [**Softplan**]().<br>
+💼 **Software Developer** na [**Softplan**][softplan].<br>
 👨🏻‍💻 Trabalhando no meu **Portfolio**.<br>
 🌱 Estudando mais sobre **React**, **Next** e **Java**.<br/>
 🧐 Tenho interesse em **Rust**.<br/>
@@ -28,4 +28,5 @@ Oi, seja bem vindo! Meu nome é Stenio Almeida, **Solutions Developer** com foco
 [instagram]: https://instagram.com/stenioas/
 [telegram]: https://t.me/stenioas/
 [gmail]: mailto:stenioas@gmail.com
+[softplan]: https://softplan.com.br/
 [lang-english]: ./README.en.md
