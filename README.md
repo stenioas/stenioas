@@ -4,17 +4,15 @@
 
 Oi, que bom ver você por aqui! Meu nome é Stenio Almeida, **Solutions Developer** com foco em human experience. Minha motivação é a oportunidade diária de compartilhar conhecimento e desenvolver soluções eficientes e inovadoras que melhorem a vida das pessoas!
 
-### **Sobre mim**
-
 💼 **Software Developer** na [**Softplan**][softplan].<br>
 👨🏻‍💻 Trabalhando no meu **Portfolio**.<br>
 🌱 Estudando mais sobre **React**, **Next** e **Java**.<br/>
-🧐 Interesse em **Rust**.<br/>
+🧐 Interessado em **Rust**.<br/>
 🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono.<br/>
 💬 Me pergunte sobre qualquer coisa [**aqui**][telegram].<br/>
 ⚡ Fato curioso: Eu faço desliciosas tapiocas com côco ralado!
 
-### **Vamos nos conectar!**
+#### **Vamos nos conectar!**
 
 [<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" />][linkedin]&nbsp;
 [<img src="./etc/assets/social-instagram.svg" alt="Instagram" />][instagram]&nbsp;

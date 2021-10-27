@@ -2,17 +2,15 @@
 
 Hi, good to see you here! I'm Stenio Almeida, **Solutions Developer** focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!
 
-### **About me**
-
 💼 **Software Developer** at [**Softplan**][softplan].<br>
 👨🏻‍💻 Working on **Portfolio**.<br>
 🌱 Learning more about **React**, **Next** and **Java**.<br/>
-🧐 Interest in **Rust**.<br/>
+🧐 Interested in **Rust**.<br/>
 🤝🏼 I like to contribute to open source, social and pro bono projects.<br/>
 💬 Ask me about anything [**here**][telegram].<br/>
 ⚡ Fun fact: I make delicious tapiocas with grated coconut!
 
-### **Reach me**
+#### **Reach me**
 
 [<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" />][linkedin]&nbsp;
 [<img src="./etc/assets/social-instagram.svg" alt="Instagram" />][instagram]&nbsp;
