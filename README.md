@@ -2,10 +2,6 @@
 
 <h1 align="center"><strong>"Olá, Mundo!"</strong></h1>
 
-![Cargo](https://img.shields.io/badge/Softplan-1d1d1d?style=for-the-badge&logo=linkedin)
-![Cargo](https://img.shields.io/badge/Software_Developer-1d1d1d?style=for-the-badge&logo=linkedin)
-![Cargo](https://img.shields.io/badge/Softplan-1d1d1d?style=for-the-badge)
-
 <samp><em>Oi, que bom ver você por aqui! Meu nome é Stenio Almeida, **Solutions Developer** com foco em human experience. Minha motivação é a oportunidade diária de compartilhar conhecimento e desenvolver soluções eficientes e inovadoras que melhorem a vida das pessoas!</em></samp>
 
 #### **Sobre**
