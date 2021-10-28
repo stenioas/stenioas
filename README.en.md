@@ -10,12 +10,12 @@ Hi, good to see you here! I'm Stenio Almeida, **Solutions Developer** focused on
 - 🧐 Interested in **Rust**.
 - 🤝🏼 I like to contribute to open source, social and pro bono projects.
 - 💬 Ask me about anything [**here**][telegram].
-- ⚡ Fun fact: I make delicious tapiocas with grated coconut!
+- ⚡ Fun fact: I make delicious tapiocas with coconut!
 
 ## **Reach me**
 
-[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" />][linkedin]&nbsp;
-[<img src="./etc/assets/social-instagram.svg" alt="Instagram" />][instagram]&nbsp;
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram" />][instagram]&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="./etc/assets/social-telegram.svg" alt="Telegram" />][telegram]
 
 <!-- <a href="./RESUME.md"><h4><strong>Ver perfil completo!</strong></h4></a> -->
