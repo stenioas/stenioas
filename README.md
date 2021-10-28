@@ -1,16 +1,20 @@
 <a href="./README.en.md"><h5><strong>README in English</strong></h5></a>
 
-<h2><strong>"Olá, Mundo!"</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h2>
+<h1 align="center"><strong>Stenio Almeida</strong></h1>
 
-Oi, que bom ver você por aqui! Meu nome é Stenio Almeida, **Solutions Developer** com foco em human experience. Minha motivação é a oportunidade diária de compartilhar conhecimento e desenvolver soluções eficientes e inovadoras que melhorem a vida das pessoas!
+"Olá, Mundo!" Que bom ver você por aqui! Meu nome é Stenio Almeida, **Solutions Developer** com foco em human experience. Minha motivação é a oportunidade diária de compartilhar conhecimento e desenvolver soluções eficientes e inovadoras que melhorem a vida das pessoas!
 
-💼 **Software Developer** na [**Softplan**][softplan].<br>
-👨🏻‍💻 Trabalhando no meu **Portfolio**.<br>
-🌱 Estudando mais sobre **React**, **Next** e **Java**.<br/>
-🧐 Interessado em **Rust**.<br/>
-🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono.<br/>
-💬 Me pergunte sobre qualquer coisa [**aqui**][telegram].<br/>
-⚡ Fato curioso: Eu faço desliciosas tapiocas com côco ralado!
+<p style="font-size: 2rem; font-weight: 800">Stenio Almeida<p>
+
+#### **Sobre**
+
+- 💼 **Software Developer** na [**Softplan**][softplan].
+- 👨🏻‍💻 Trabalhando no meu **Portfolio**.
+- 🌱 Estudando mais sobre **React**, **Next** e **Java**.
+- 🧐 Interessado em **Rust**.
+- 🤝🏼 Gosto de contribuir em projetos open source, sociais e pro bono.
+- 💬 Me pergunte sobre qualquer coisa [**aqui**][telegram].
+- ⚡ Fato curioso: Eu faço desliciosas tapiocas com côco ralado!
 
 #### **Vamos nos conectar!**
 
