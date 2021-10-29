@@ -1,7 +1,8 @@
-<a href="./README.en.md"><strong>README in English</strong></a>
+<p align="center"><a href="./README.en.md"><strong>README in English</strong></a></p>
 
-<h1><strong>"Olá, Mundo!"</strong></h1>
+<h1 align="center"><strong>"Olá, Mundo!"</strong></h1>
 
+<p align="center">
 <img src="./etc/assets/profile-company.svg" alt="Linkedin" /> <img src="./etc/assets/profile-occupation.svg" alt="Linkedin" /> <img src="./etc/assets/profile-react.svg" alt="Linkedin" /> <img src="./etc/assets/profile-java.svg" alt="Linkedin" /><br/><img src="./etc/assets/profile-linux.svg" alt="Linkedin" /> <img src="./etc/assets/profile-opensource.svg" alt="Linkedin" />
 
 <samp><em>Oi, que bom ver você por aqui! Meu nome é Stenio Almeida, **Solutions Developer** com foco em human experience. Minha motivação é a oportunidade diária de compartilhar conhecimento e desenvolver soluções eficientes e inovadoras que melhorem a vida das pessoas!</em></samp>
