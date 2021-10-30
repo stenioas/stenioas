@@ -5,9 +5,18 @@
 
 </div>
 
-<h2><strong>Hi! I'm Stenio!</strong> <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 2rem" /></h1>
+<h1><strong>Hi, I'm Stenio!</strong> <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 4rem" /></h1>
 
-I'm a **Solutions Developer** focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!
+<samp>I'm a **Solutions Developer** focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!</samp>
+
+<!-- <div>
+
+[<img src="./etc/assets/profile-linkedin.svg" alt="Linkedin" />][linkedin]
+[<img src="./etc/assets/profile-gmail.svg" alt="Gmail" />][gmail]
+[<img src="./etc/assets/profile-instagram.svg" alt="Instagram" />][instagram]
+[<img src="./etc/assets/profile-telegram.svg" alt="Telegram" />][telegram]
+
+</div> -->
 
 ```javascript
 const stenioas = {
@@ -19,7 +28,7 @@ const stenioas = {
   technologies: {
     code: ["JavaScript", "Python", "Bash Script"],
     tools: ["VSCode", "Figma", "Insomnia"],
-    os: ["Linux", "Windows"],
+    operatingSystems: ["Linux", "Windows"],
   },
   currentlyLearning: ["React", "Java"],
   interest: ["Rust", "Flutter"],
@@ -33,10 +42,10 @@ const stenioas = {
 <footer>
 <br/>
 
-[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" style="width: 3rem" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-gmail.svg" alt="Gmail" style="width: 3rem" />][gmail]&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-instagram.svg" alt="Instagram" style="width: 3rem" />][instagram]&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-telegram.svg" alt="Telegram" style="width: 3rem" />][telegram]
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-gmail.svg" alt="Gmail" />][gmail]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram" />][instagram]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-telegram.svg" alt="Telegram" />][telegram]
 
 </footer>
 
