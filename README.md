@@ -4,7 +4,7 @@ _Software Developer at_ [**_Softplan_**](https://www.softplan.com.br)
 
 I'm a solutions developer focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!
 
-<div align="center">
+<div>
 
 [<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="48" height="36" />][linkedin]
 [<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="48" height="36" />][gmail]
@@ -40,9 +40,9 @@ const stenio = {
 
 ---
 
-<footer align="center">
+<footer>
 
-Made with 💞 by Stenio Almeida. <strong>2021</strong>
+<p>Made with 💞 by Stenio Almeida. <strong>2021.</strong></p>
 
 </footer>
 
