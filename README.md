@@ -1,6 +1,6 @@
 <h1><strong><samp>Hi, I'm Stenio!</strong> <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 3rem" /></h1>
 
-_Software Developer at_ [**_Softplan_**](https://www.softplan.com.br)
+### _**Software Developer** at [**Softplan**](https://www.softplan.com.br)._
 
 I'm a solutions developer focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!
 
@@ -40,11 +40,7 @@ const stenio = {
 
 ---
 
-<footer>
-
-<p>Made with 💞 by Stenio Almeida. <strong>2021.</strong></p>
-
-</footer>
+Made with 💞 by Stenio Almeida. **2021**.
 
 [linkedin]: https://linkedin.com/in/stenioas/
 [gmail]: mailto:stenioas@gmail.com
