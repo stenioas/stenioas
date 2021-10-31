@@ -31,11 +31,12 @@ const stenio = {
 <br/>
 <div>
 
-[<img src="./etc/assets/social-linkedin.svg" title="Linkedin" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-gmail.svg" title="Gmail" alt="Gmail" height="42" />][gmail]&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-instagram.svg" title="Instagram" alt="Instagram" height="42" />][instagram]&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-telegram.svg" title="Telegram" alt="Telegram" height="42" />][telegram]&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-spotify.svg" title="Spotify" alt="Spotify" height="42" />][spotify]
+[<img src="./etc/assets/social-linkedin.svg" title="Linkedin" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;
+[<img src="./etc/assets/social-gmail.svg" title="Gmail" alt="Gmail" height="42" />][gmail]&nbsp;&nbsp;
+[<img src="./etc/assets/social-instagram.svg" title="Instagram" alt="Instagram" height="42" />][instagram]&nbsp;&nbsp;
+[<img src="./etc/assets/social-telegram.svg" title="Telegram" alt="Telegram" height="42" />][telegram]&nbsp;&nbsp;
+[<img src="./etc/assets/social-spotify.svg" title="Spotify" alt="Spotify" height="42" />][spotify]&nbsp;&nbsp;
+[<img src="./etc/assets/profile-company.svg" title="Softplan" alt="Softplan" height="42" />][softplan]
 
 </div>
 
