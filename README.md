@@ -1,10 +1,10 @@
 <img align="right" src="https://img.shields.io/badge/version-2021.10.31-3666FF" title="Version" alt="Version" />
 
-<h2>"Hello, World!" 🌎</h2>
+<h3>"Hello, World!"</h3>
 
 <samp>Hi, I'm Stenio! I build solutions focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!</samp> <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 4rem" />
 
-<img src="./etc/assets/profile-role.svg" title="Softplan" alt="Softplan" />&nbsp;[<img src="./etc/assets/profile-company.svg" title="Softplan" alt="Softplan" />][softplan]&nbsp;<img src="./etc/assets/javascript.svg" title="Javascript" alt="Javascript" />&nbsp;<img src="./etc/assets/react.svg" title="React" alt="React" />&nbsp;<img src="./etc/assets/java.svg" title="Java" alt="Java" />
+<img src="./etc/assets/profile-role.svg" title="Software Developer at" alt="Softplan" />&nbsp;[<img src="./etc/assets/profile-company.svg" title="Softplan" alt="Softplan" />][softplan]&nbsp;<img src="./etc/assets/javascript.svg" title="Javascript" alt="Javascript" />&nbsp;<img src="./etc/assets/react.svg" title="React" alt="React" />&nbsp;<img src="./etc/assets/java.svg" title="Java" alt="Java" />
 
 <div>
 
