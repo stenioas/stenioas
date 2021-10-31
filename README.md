@@ -1,6 +1,6 @@
 <h1><strong>Hi, I'm Stenio!</strong> <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 3rem" /></h1>
 
-I'm a **Solutions Developer** focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!
+<samp>I'm a <strong>Solutions Developer</strong> focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!</samp>
 
 <div>
 
@@ -20,18 +20,8 @@ const stenioas = {
   company: "Softplan",
   role: "Software Developer",
   technologies: {
-    developing: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "Styled Components",
-      "SCSS",
-      "Java",
-      "Python",
-      "Shell Script",
-    ],
+    stack: ["JavaScript", "React", "Java"],
+    others: ["Python", "Shell Script"],
     tools: ["Visual Studio Code", "Figma", "Insomnia"],
     operatingSystems: ["Linux", "Windows"],
   },
