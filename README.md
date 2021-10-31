@@ -4,34 +4,46 @@ I'm a **Solutions Developer** focused on human experience. My motivation is the 
 
 <div>
 
-[<img src="./etc/assets/profile-linkedin.svg" alt="Linkedin" />][linkedin]
-[<img src="./etc/assets/profile-gmail.svg" alt="Gmail" />][gmail]
-[<img src="./etc/assets/profile-instagram.svg" alt="Instagram" />][instagram]
-[<img src="./etc/assets/profile-telegram.svg" alt="Telegram" />][telegram]
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="48" height="36" />][linkedin]
+[<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="48" height="36" />][gmail]
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram" width="48" height="36" />][instagram]
+[<img src="./etc/assets/social-telegram.svg" alt="Telegram" width="48" height="36" />][telegram]
+[<img src="./etc/assets/social-spotify.svg" alt="Spotify" width="48" height="36" />][spotify]
 
 </div>
 
 ```javascript
 const stenioas = {
-  name: 'Stenio Almeida',
+  name: "Stenio Almeida",
   age: 40,
-  pronouns: 'He' | 'Him',
-  company: 'Softplan',
-  role: 'Software Developer',
+  pronouns: "He" | "Him",
+  company: "Softplan",
+  role: "Software Developer",
   technologies: {
-    code: ['JavaScript', 'Python', 'Shell Script'],
-    tools: ['VSCode', 'Figma', 'Insomnia'],
-    operatingSystems: ['Linux', 'Windows'],
+    developing: [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Styled Components",
+      "SCSS",
+      "Java",
+      "Python",
+      "Shell Script",
+    ],
+    tools: ["Visual Studio Code", "Figma", "Insomnia"],
+    operatingSystems: ["Linux", "Windows"],
   },
-  currentlyLearning: ['React', 'Java'],
-  interest: ['Rust', 'Flutter'],
-  personalFocus: 'My Portfolio',
-  askMeAbout: 'Anything',
-  hobbies: ['Play Guitar', 'Games', 'Movies', 'Cook'],
-  iLove: ['Linux', 'Open Source']
-  favouriteColor: 'Pink',
-  favouriteFood: 'Spaghetti',
-  funFact: 'I make delicious tapiocas with coconut!',
+  learning: ["React", "Java"],
+  interest: ["Rust", "Flutter"],
+  personalFocus: "My Portfolio",
+  askMeAbout: "Anything",
+  hobbies: ["Play Guitar", "Music", "Movies", "Games", "Cook"],
+  iLove: ["Linux", "Open Source"],
+  favouriteColor: "Pink",
+  favouriteFood: "Spaghetti",
+  funFact: "I make delicious tapiocas with coconut!",
 };
 ```
 
@@ -39,3 +51,4 @@ const stenioas = {
 [gmail]: mailto:stenioas@gmail.com
 [instagram]: https://instagram.com/stenioas/
 [telegram]: https://t.me/stenioas/
+[spotify]: https://open.spotify.com/user/stenioas/
