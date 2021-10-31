@@ -28,7 +28,6 @@ const stenio = {
 };
 ```
 
-<br/>
 <div>
 
 [<img src="./etc/assets/social-linkedin.svg" title="Linkedin" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;
