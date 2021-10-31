@@ -4,16 +4,6 @@ _**Software Developer** at [**Softplan**](https://www.softplan.com.br)._
 
 <samp>I'm a solutions developer focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!</samp>
 
-<div>
-
-[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="48" height="36" />][linkedin]
-[<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="48" height="36" />][gmail]
-[<img src="./etc/assets/social-instagram.svg" alt="Instagram" width="48" height="36" />][instagram]
-[<img src="./etc/assets/social-telegram.svg" alt="Telegram" width="48" height="36" />][telegram]
-[<img src="./etc/assets/social-spotify.svg" alt="Spotify" width="48" height="36" />][spotify]
-
-</div>
-
 ```javascript
 const stenio = {
   name: "Stenio Almeida",
@@ -38,9 +28,26 @@ const stenio = {
 };
 ```
 
----
+<!-- <br/>
+<div>
 
-Made with 💞 by Stenio Almeida. **2021**.
+[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="48" height="36" />][linkedin]
+[<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="48" height="36" />][gmail]
+[<img src="./etc/assets/social-instagram.svg" alt="Instagram" width="48" height="36" />][instagram]
+[<img src="./etc/assets/social-telegram.svg" alt="Telegram" width="48" height="36" />][telegram]
+[<img src="./etc/assets/social-spotify.svg" alt="Spotify" width="48" height="36" />][spotify]
+
+</div> -->
+<br/>
+<div>
+
+[<img src="./etc/assets/profile-linkedin.svg" alt="Linkedin" />][linkedin]
+[<img src="./etc/assets/profile-gmail.svg" alt="Gmail" />][gmail]
+[<img src="./etc/assets/profile-instagram.svg" alt="Instagram" />][instagram]
+[<img src="./etc/assets/profile-telegram.svg" alt="Telegram" />][telegram]
+[<img src="./etc/assets/profile-spotify.svg" alt="Spotify" />][spotify]
+
+</div>
 
 [linkedin]: https://linkedin.com/in/stenioas/
 [gmail]: mailto:stenioas@gmail.com
