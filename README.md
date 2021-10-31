@@ -1,6 +1,6 @@
 <h1><strong>Hi, I'm Stenio!</strong> <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 3rem" /></h1>
 
-_**Software Developer** at [**Softplan**](https://www.softplan.com.br)._
+_**Software Developer** at [**Softplan**][softplan]._
 
 <samp>I'm a solutions developer focused on human experience. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!</samp>
 
@@ -31,21 +31,11 @@ const stenio = {
 <br/>
 <div>
 
-[<img src="./etc/assets/social-linkedin.svg" alt="Linkedin" width="42" height="36" />][linkedin]
-[<img src="./etc/assets/social-gmail.svg" alt="Gmail" width="42" height="36" />][gmail]
-[<img src="./etc/assets/social-instagram.svg" alt="Instagram" width="42" height="36" />][instagram]
-[<img src="./etc/assets/social-telegram.svg" alt="Telegram" width="42" height="36" />][telegram]
-[<img src="./etc/assets/social-spotify.svg" alt="Spotify" width="42" height="36" />][spotify]
-
-</div>
-<br/>
-<div>
-
-[<img src="./etc/assets/profile-linkedin.svg" alt="Linkedin" />][linkedin]
-[<img src="./etc/assets/profile-gmail.svg" alt="Gmail" />][gmail]
-[<img src="./etc/assets/profile-instagram.svg" alt="Instagram" />][instagram]
-[<img src="./etc/assets/profile-telegram.svg" alt="Telegram" />][telegram]
-[<img src="./etc/assets/profile-spotify.svg" alt="Spotify" />][spotify]
+[<img src="./etc/assets/social-linkedin.svg" title="Linkedin" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-gmail.svg" title="Gmail" alt="Gmail" height="42" />][gmail]&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-instagram.svg" title="Instagram" alt="Instagram" height="42" />][instagram]&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-telegram.svg" title="Telegram" alt="Telegram" height="42" />][telegram]&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-spotify.svg" title="Spotify" alt="Spotify" height="42" />][spotify]
 
 </div>
 
@@ -54,3 +44,4 @@ const stenio = {
 [instagram]: https://instagram.com/stenioas/
 [telegram]: https://t.me/stenioas/
 [spotify]: https://open.spotify.com/user/stenioas/
+[softplan]: https://www.softplan.com.br/
