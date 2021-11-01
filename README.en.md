@@ -1,5 +1,3 @@
-<img align="right" src="https://img.shields.io/badge/version-2021.10.31-3666FF" title="Version" alt="Version" />
-
 <h2>"Hello, World!"</h2> <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 4rem" />
 
 Hi, good to see you here! I'm Stenio, solutions developer focused on human experience. My current career goal is to become a Solutions Architect. My motivation is the daily opportunity to share knowledge and develop efficient and innovative solutions that improve people's lives!

@@ -1,6 +1,4 @@
-<img align="right" src="https://img.shields.io/badge/versão-2021.10.31-3666FF" title="Versão" alt="Versão" />
-
-[**README in English**][lang-en]
+[<img align="right" src="https://img.shields.io/badge/lang-english-3666FF" title="Lang English" alt="English version" />][lang-en]
 
 <h2>"Olá, Mundo!"</h2> <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 4rem" />
 
@@ -41,7 +39,7 @@ Oi, que bom ver você aqui! Eu sou o Stenio, desenvolvedor de soluções com foc
     interesses: ["Rust"],
     trabalhandoEm: "Meu Portfolio",
     pergunteMeSobre: "Qualquer coisa",
-    hobbies: ["Tocar violão", "Ouvir música", "Assistir filmes", "Jogar vídeo game", "Cozinhar"],
+    hobbies: ["Tocar violão", "Música", "Filmes", "Games", "Cozinhar"],
     corFavorita: "Rosa",
     comidaFavorita: "Macarronada",
     euAmo: ["Linux", "Open Source"],
