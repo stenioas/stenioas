@@ -2,11 +2,7 @@
 
 ---
 
-<h2>STENIO SILVEIRA
-
-<img src="./etc/assets/profile-role.svg" title="Software Developer" alt="Software Developer" /> [<img src="./etc/assets/profile-company.svg" title="Softplan" alt="Softplan" />][softplan] <img src="./etc/assets/java.svg" title="Java" alt="Java" /> <img src="./etc/assets/javascript.svg" title="JavaScript" alt="JavaScript" /> <img src="./etc/assets/react.svg" title="React" alt="React" />
-
-</h2>
+<h2>STENIO SILVEIRA<br/><img src="./etc/assets/profile-role.svg" title="Software Developer" alt="Software Developer" /> <a href="https://www.softplan.com.br/"><img src="./etc/assets/profile-company.svg" title="Softplan" alt="Softplan" /></a> <img src="./etc/assets/java.svg" title="Java" alt="Java" /> <img src="./etc/assets/javascript.svg" title="JavaScript" alt="JavaScript" /> <img src="./etc/assets/react.svg" title="React" alt="React" /></h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Cat Gif" style="width: 6rem" />
 
