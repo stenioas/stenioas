@@ -16,16 +16,6 @@ Atualmente estou aprendendo mais sobre **`Java`**, muito interessado em aprender
 [<img src="./etc/assets/social-telegram.svg" title="@stenioas" alt="Telegram" height="42" />][telegram]&nbsp;&nbsp;
 [<img src="./etc/assets/social-spotify.svg" title="@stenioas" alt="Spotify" height="42" />][spotify]
 
----
-
-<div>
-
-_**Feito com ❤️ por Stenio Silveira.**_
-
-<img src="https://img.shields.io/badge/version-2021.11.07-3666FF?" title="Version" alt="Version Badge" />
-
-</div>
-
 <!-- links -->
 
 [linkedin]: https://linkedin.com/in/stenioas/
