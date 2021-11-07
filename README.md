@@ -1,12 +1,12 @@
 [<img align="right" src="https://img.shields.io/badge/lang-en-3666FF?style=flat" title="README in English" alt="English" />][lang-en]
 
-## _STENIO SILVEIRA_
+# STENIO SILVEIRA
 
-<code><strong>Desenvolvedor de Software</strong> na <a href="https://www.softplan.com.br"><strong>Softplan</strong></a></code>
+#### _Desenovledor de Software na [**Softplan**][softplan]_
 
 Atualmente estou aprendendo mais sobre **`Java`**, muito interessado em aprender **`Rust`** e busco colaborar em projetos de código aberto de impacto educacional e social. Minha motivação é a oportunidade diária de melhorar a vida das pessoas por meio da tecnologia, construindo soluções eficientes e inovadoras!
 
-💬 Pergunte-me sobre qualquer coisa [**`aqui`**][telegram]
+💬 Pergunte-me sobre qualquer coisa [**aqui**][telegram]
 
 > 😌 Eu faço deliciosas tapiocas com côco!
 
