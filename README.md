@@ -10,10 +10,10 @@ Atualmente estou aprendendo mais sobre **`Java`**, muito interessado em aprender
 
 > 😌 Eu faço deliciosas tapiocas com côco!
 
-[<img src="./etc/assets/social-linkedin.svg" title="Stenio Almeida" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-gmail.svg" title="stenioas@gmail.com" alt="Gmail" height="42" />][gmail]&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-instagram.svg" title="@stenioas" alt="Instagram" height="42" />][instagram]&nbsp;&nbsp;&nbsp;
-[<img src="./etc/assets/social-telegram.svg" title="@stenioas" alt="Telegram" height="42" />][telegram]&nbsp;&nbsp;&nbsp;
+[<img src="./etc/assets/social-linkedin.svg" title="Stenio Almeida" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;
+[<img src="./etc/assets/social-gmail.svg" title="stenioas@gmail.com" alt="Gmail" height="42" />][gmail]&nbsp;&nbsp;
+[<img src="./etc/assets/social-instagram.svg" title="@stenioas" alt="Instagram" height="42" />][instagram]&nbsp;&nbsp;
+[<img src="./etc/assets/social-telegram.svg" title="@stenioas" alt="Telegram" height="42" />][telegram]&nbsp;&nbsp;
 [<img src="./etc/assets/social-spotify.svg" title="@stenioas" alt="Spotify" height="42" />][spotify]
 
 ---
