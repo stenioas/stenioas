@@ -8,7 +8,7 @@ I'm currently learning more about **`Java`**, very interested in learning **`Rus
 
 > 😌 I make delicious tapiocas with coconut!
 
-[<img src="./etc/assets/social-linkedin.svg" title="Stenio Almeida" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;
+[<img src="./etc/assets/social-linkedin.svg" title="Stenio Silveira" alt="Linkedin" height="42" />][linkedin]&nbsp;&nbsp;
 [<img src="./etc/assets/social-gmail.svg" title="stenioas@gmail.com" alt="Gmail" height="42" />][gmail]&nbsp;&nbsp;
 [<img src="./etc/assets/social-instagram.svg" title="@stenioas" alt="Instagram" height="42" />][instagram]&nbsp;&nbsp;
 [<img src="./etc/assets/social-telegram.svg" title="@stenioas" alt="Telegram" height="42" />][telegram]&nbsp;&nbsp;
