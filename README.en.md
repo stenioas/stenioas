@@ -4,7 +4,7 @@
 
 I'm currently learning more about **`Java`**, very interested in learning **`Rust`** and looking to collaborate on open source projects with educational and social impact. My motivation is the daily opportunity to improve people's lives through technology, building efficient and innovative solutions!
 
-💬 Ask me about anything [**`here`**][telegram]
+💬 Ask me about anything [**here**][telegram]
 
 > 😌 I make delicious tapiocas with coconut!
 
